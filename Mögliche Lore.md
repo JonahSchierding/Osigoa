@@ -18,3 +18,11 @@ Treffen mit Ao (Overgod)
 Wahlmöglichkeit, ob die Welt gerettet werden soll oder dass Ritual selbst beendet wird und die Welt in einen neuen Zyklus übergehen (neue Chance auf Gerechtigkeit etc)  
 (reformation vs revolution)  
 Als Abschlussgeschenk das Buch 'Im Grunde gut' mit widmung? In Erinnerung an [Charakternamen] und daran, dass du gut bist, [Spielername]
+
+PC arc:
+Twist around pc choices
+impact on 3 different scales
+Twist has choice
+Repeat
+
+Anfüherer des Zirkels (der drache) ist paladin oder cleric lich? Betet God der Prüfung an?
