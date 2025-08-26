@@ -1,0 +1,17 @@
+formulas:
+  Player: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Type == "Session"
+        - file.basename != "Session"
+    order:
+      - file.name
+      - Type
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.links
+        direction: ASC

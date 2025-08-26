@@ -1,0 +1,27 @@
+- [ ] Vorbereitung  
+	- [ ] Prüfen ob alles in [[Übersicht.canvas]] was davor 5etools dmscreen war
+	- [ ] Oneshot suchen  
+	- [ ] Oneshot anpassen  
+		- [ ] Hints für Main Story verstecken
+			- [ ] [[Plot Hooks]]
+			- [ ] Gerüchte in [[Übersicht.canvas]]
+		- [ ] Encounter prüfen 
+			- [ ] [[Encounter Bausteine.canvas]]
+			- [ ] Loot einbauen  
+			- [ ] Schwierigkeit an Level anpassen  
+		- [ ] Battlemaps interessanter machen  
+			- [ ] [[Battlemaps]]
+	- [ ] Struktur zusammenfassen 
+		- [ ] [[Aktuelle Session]]
+	- [ ] Assets zippen und auf Laptop schieben, git pull auf laptop
+- [ ] Session  
+	- [ ] Recap
+	- [ ] Level Up  
+	- [ ] Abenteuern  
+		- [ ] [[Übersicht.canvas]]
+	- [ ] Feedback
+	- [ ] Nachbereitung 
+		- [ ] XP verrechnen: [[Level Progress]]
+		- [ ] Loot dokumentieren: [[Items]]
+		- [ ] [[Player Information]] und [[Lore]] updaten
+ 

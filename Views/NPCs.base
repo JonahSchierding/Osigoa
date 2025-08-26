@@ -1,0 +1,19 @@
+properties:
+  note.Last seen:
+    displayName: Last seen Date
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Type == "NPC"
+        - file.basename != "NPC"
+    order:
+      - file.name
+      - Type
+      - Fraktion
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: LastSeenSession
+        direction: ASC

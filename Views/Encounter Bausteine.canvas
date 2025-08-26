@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e0164b2d15f7432d","type":"file","file":"Osigoa/Vorbereitung/Encounter/Shops.md","x":-621,"y":-360,"width":400,"height":186},
+		{"id":"f29c39d6a4561e87","type":"file","file":"Osigoa/Vorbereitung/Encounter/NPC Sammlung.md","x":-140,"y":-354,"width":400,"height":180},
+		{"id":"a3ee00cdc3d26f45","type":"file","file":"Osigoa/Vorbereitung/Encounter/Item Sammlung.md","x":-621,"y":-129,"width":400,"height":400},
+		{"id":"fdff0afb378930fb","type":"file","file":"Osigoa/Vorbereitung/Encounter/Dungeon Räume.md","x":-621,"y":320,"width":400,"height":360},
+		{"id":"8af81f8bb0f44d64","type":"text","text":"# Tagesplan\n6-8 Encounter per Day\n[[Oneshot Sammlung.canvas]]","x":-140,"y":320,"width":400,"height":120},
+		{"id":"9b2a0f8e78c5130a","type":"file","file":"Osigoa/Vorbereitung/Encounter/Gegner Sammlung.md","x":-140,"y":-129,"width":400,"height":400},
+		{"id":"edf0d72adf71a61f","type":"file","file":"Assets/Sonstiges/Markt-Encounter.png","x":-960,"y":-360,"width":309,"height":400}
+	],
+	"edges":[]
+}

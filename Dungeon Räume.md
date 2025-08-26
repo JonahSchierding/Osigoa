@@ -1,3 +1,0 @@
-Stilleraum mit Särgen und Rätsel zum Tür öffnen:  
-Beschreibung: [https://www.patreon.com/posts/stille-ist-im-im-133686706?utm_campaign=patron_engagement&utm_source=post_link&post_id=133686706&utm_id=b65eb9da-a341-4680-9e93-e5165d74714b&utm_medium=email](https://www.patreon.com/posts/stille-ist-im-im-133686706?utm_campaign=patron_engagement&utm_source=post_link&post_id=133686706&utm_id=b65eb9da-a341-4680-9e93-e5165d74714b&utm_medium=email)  
-Statblock: [http://prd.5footstep.de/Monsterhandbuch/Todesalb](http://prd.5footstep.de/Monsterhandbuch/Todesalb)

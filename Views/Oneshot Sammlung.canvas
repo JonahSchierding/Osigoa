@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"2cdf011dd6531c81","type":"file","file":"Assets/CS/Halfing 2 Druid CS.pdf","x":-1181,"y":-2540,"width":161,"height":180},
+		{"id":"a72fc1f8cb5690a1","type":"file","file":"Assets/CS/Halfing 1 Druid CS.pdf","x":-1181,"y":-2320,"width":161,"height":177},
+		{"id":"1529c24edeb278c4","type":"file","file":"Assets/CS/Half Elf Druid CS.pdf","x":-1181,"y":-2100,"width":161,"height":180},
+		{"id":"0138369800cb0972","type":"file","file":"Assets/CS/Gnome Druid CS.pdf","x":-1181,"y":-1880,"width":161,"height":180},
+		{"id":"05d14f0cada055c4","type":"file","file":"Assets/One Shots/Druids of the Carnivorous Jungle.pdf","x":-777,"y":-2500,"width":217,"height":220},
+		{"id":"87b8b14a23fd1c9c","type":"text","text":"#### Level 2 mit Premade Charakteren\n \nDruiden im Wald, als Prüfung im mysteriösen Nebel, Großer Baum gibt einen (kryptischen Hinweis für jeden Charakter bei bestehen)\n\nXP skalieren weil Lvl 2 XP sonst irrelevant?","x":-777,"y":-2230,"width":217,"height":350},
+		{"id":"0fc7e8123ce570e9","type":"text","text":"# Backlog","x":-777,"y":-2600,"width":157,"height":60},
+		{"id":"4bb536787a8dbc2c","type":"file","file":"Assets/One Shots/Wizards_of_the_Toast - v1.1 SPREADS.pdf","x":-548,"y":-2500,"width":228,"height":220},
+		{"id":"bd8c9e31234b41da","type":"text","text":"#### Level 3, 7 oder 12\n \nFabrik in Wüste, Sandsteingolems, hohe Steuern\n \nSatire auf neue DnD Lizenz, Wizards of the Toast, Ressourcen Management wichtig hier, darauf hinweisen?\n \nReflavor: König braucht Geld für Krieg und ein Berater ist der gierige Dude Hasbrodeus (Drache nehmen ist schlecht im Kontext probbaly für Pumpernax, eventuell mit Sandstein Konstrukt ersetzen)?  \nNicht nur Bäcker (zu sehr Fanny focused, sondern alle Handwerke?)  \nGolems aus Sandstein?  \nStatt Charcoal Spikes, Glas Spikes?","x":-542,"y":-2230,"width":217,"height":710},
+		{"id":"e9a749c865518010","type":"text","text":"#### Level 4\n\nNew founded Miners Town has a problem","x":-308,"y":-2230,"width":217,"height":130},
+		{"id":"a63450300caef410","type":"file","file":"Assets/One Shots/Tremor in the Yawning Canyons.pdf","x":-308,"y":-2500,"width":217,"height":220},
+		{"id":"89db880fb0f6b9a5","type":"text","text":"#### Level 7 (ab Seite 22) \n\nEventuell Rätsel übersetzen\n\nGoldwyrm, Dungeon, Tote identifizieren\n \nEventuell kann der Auftraggeber sie in den Norden teleportieren, falls sie ihm helfen\n\nEventuell Elementartempel?","x":-60,"y":-2230,"width":209,"height":440},
+		{"id":"6fe7471a3e2efbcb","type":"file","file":"Assets/Sonstiges/Issue30 Dragon.pdf","x":-60,"y":-2500,"width":209,"height":220},
+		{"id":"c491447819721d7b","type":"file","file":"Assets/One Shots/the_wild_sheep_chase_v2.pdf","x":180,"y":-2500,"width":200,"height":220},
+		{"id":"3b570bd70129d156","type":"text","text":"#### Level 5\n\nMagier wird in schaf verzaubert wegen anderem Zauberer\n\nAhmad Noke schon erwähnt\n\nRed Hering?","x":171,"y":-2230,"width":209,"height":270},
+		{"id":"3d5b496b8332b089","type":"text","text":"# Die Mine lebt","x":-40,"y":-2960,"width":240,"height":140},
+		{"id":"46538eb166f968b5","type":"text","text":"# Benutzt","x":-777,"y":-3200,"width":157,"height":70},
+		{"id":"b890bffffd51f485","type":"text","text":"# [[Session 1]]","x":-777,"y":-3080,"width":217,"height":60},
+		{"id":"dfe010edac7008bd","type":"text","text":"# [[Session 2]]","x":-542,"y":-3080,"width":234,"height":60},
+		{"id":"a31d186dd463e515","type":"text","text":"# [[Session 3]]","x":-290,"y":-3080,"width":490,"height":60},
+		{"id":"6afe0a72d3eb20f8","type":"text","text":"# [[Session 4]]","x":220,"y":-3080,"width":240,"height":60},
+		{"id":"20b87c1b6a0b4ae8","x":-777,"y":-2960,"width":217,"height":140,"type":"text","text":"[[Songs of the Estranged.pdf]]"},
+		{"id":"2d1ac4986902de94","x":-542,"y":-2960,"width":234,"height":140,"type":"text","text":"[[The Burning of Fairward Falls.pdf]]"},
+		{"id":"e857198ec686eb19","x":-290,"y":-2960,"width":230,"height":140,"type":"text","text":"[[Stolen By The Sea v1.2.pdf]]"},
+		{"id":"da94d86fdcd40d6d","x":220,"y":-2960,"width":240,"height":140,"type":"text","text":"[[Morty Viper's Sinking Circus - DnD Shorts Adventures-compressed (2) (1).pdf]]"},
+		{"id":"a1dfc321058cb737","x":400,"y":-2231,"width":200,"height":272,"type":"text","text":"#### Level ?\n\nDruidentempel\neiner der Elementartempel?"},
+		{"id":"c677525ba84cb3aa","x":400,"y":-2500,"width":200,"height":220,"type":"file","file":"Assets/One Shots/Druidentempel/Druidentempel.md"}
+	],
+	"edges":[
+		{"id":"c1018c30a92d0707","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"2cdf011dd6531c81","toSide":"right"},
+		{"id":"476c68601252c648","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"a72fc1f8cb5690a1","toSide":"right"},
+		{"id":"a2cd65fc78b704a3","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"1529c24edeb278c4","toSide":"right"},
+		{"id":"40ff2c910d88ae8d","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"0138369800cb0972","toSide":"right"},
+		{"id":"d458f91766131a08","fromNode":"05d14f0cada055c4","fromSide":"bottom","toNode":"87b8b14a23fd1c9c","toSide":"top"},
+		{"id":"40ec0c21ba875c11","fromNode":"4bb536787a8dbc2c","fromSide":"bottom","toNode":"bd8c9e31234b41da","toSide":"top"},
+		{"id":"61732bde341633a7","fromNode":"a63450300caef410","fromSide":"bottom","toNode":"e9a749c865518010","toSide":"top"},
+		{"id":"5447a2f5c87f3f3c","fromNode":"6fe7471a3e2efbcb","fromSide":"bottom","toNode":"89db880fb0f6b9a5","toSide":"top"}
+	]
+}
