@@ -1,27 +1,38 @@
-- [ ] Vorbereitung  
-	- [ ] Prüfen ob alles in [[Übersicht.canvas]] was davor 5etools dmscreen war
+- [x] Vorbereitung  
+	- [ ] Prüfen ob alles in [[DM Screen.canvas||DM Screen]] was davor 5etools dmscreen war
 	- [ ] Oneshot suchen  
 	- [ ] Oneshot anpassen  
-		- [ ] Hints für Main Story verstecken
+		- [ ] Hints für Main Story verstecken 
 			- [ ] [[Plot Hooks]]
-			- [ ] Gerüchte in [[Übersicht.canvas]]
+			- [ ] Gerüchte in [[DM Screen.canvas||DM Screen]]
+			- [ ] [[Gefundene Hinweise]]
 		- [ ] Encounter prüfen 
-			- [ ] [[Encounter Bausteine.canvas]]
+			- [ ] [[Encounter Bausteine.canvas|Encounter Bausteine]]
 			- [ ] Loot einbauen  
 			- [ ] Schwierigkeit an Level anpassen  
+			- [ ] Bei [[Kämpfe]] eintragen
 		- [ ] Battlemaps interessanter machen  
 			- [ ] [[Battlemaps]]
 	- [ ] Struktur zusammenfassen 
 		- [ ] [[Aktuelle Session]]
 	- [ ] Assets zippen und auf Laptop schieben, git pull auf laptop
-- [ ] Session  
+	- [ ] Kommunikation an Spieler per Whatsapp
+		- [x] Level Up  
+		- [x] Background Story (Fragen, Ergänzungen, Plot Points gerne auf mich zukommen)
+		- [x] Session  
 	- [ ] Recap
 	- [ ] Level Up  
 	- [ ] Abenteuern  
-		- [ ] [[Übersicht.canvas]]
+		- [ ] [[DM Screen.canvas||DM Screen]]
 	- [ ] Feedback
-	- [ ] Nachbereitung 
-		- [ ] XP verrechnen: [[Level Progress]]
-		- [ ] Loot dokumentieren: [[Items]]
-		- [ ] [[Player Information]] und [[Lore]] updaten
+- [ ] Nachbereitung 
+	- [x] XP verrechnen: [[Level Progress]]
+	- [x] Loot dokumentieren: [[Items]]
+	- [ ] [[Player Information]] updaten
+	- [ ] [[Plot Hooks]] updaten
+	- [ ] [[Gefundene Hinweise]] updaten
+	- [ ] [[Lore]] updaten
+	- [ ] [[Osigoa/Lore/Maps||Maps]] updaten
+	- [ ] [[Timeline]] updaten
+	
  

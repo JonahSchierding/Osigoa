@@ -1,0 +1,1 @@
+Extrem mächtiger Zauber in [[Planar - Sprache]], mit dem in einem aufwändigen Ritual eine neue Episode gestartet werden kann

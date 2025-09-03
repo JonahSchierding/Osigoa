@@ -2,6 +2,7 @@
 Type: Fraktion
 tags:
   - Template
+  - Fraktion
 ---
 ### Ziele
 ### Braucht dafür

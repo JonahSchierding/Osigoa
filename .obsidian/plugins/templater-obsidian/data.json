@@ -1,0 +1,58 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Osigoa/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Osigoa/Lore/Fraktionen",
+      "template": "Osigoa/Templates/Fraktion.md"
+    },
+    {
+      "folder": "Osigoa/Sessions",
+      "template": "Osigoa/Templates/Session.md"
+    },
+    {
+      "folder": "Osigoa/Lore/NPCs",
+      "template": "Osigoa/Templates/NPC.md"
+    },
+    {
+      "folder": "Osigoa/Lore/Orte",
+      "template": "Osigoa/Templates/Ort.md"
+    },
+    {
+      "folder": "Osigoa/Player Information/PCs",
+      "template": "Osigoa/Templates/Player.md"
+    },
+    {
+      "folder": "Osigoa/Lore/Historische Events",
+      "template": "Osigoa/Templates/Event.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

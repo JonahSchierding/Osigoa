@@ -2,6 +2,7 @@
 Type: Player
 tags:
   - Template
+  - Player
 ---
 Statblock:
 

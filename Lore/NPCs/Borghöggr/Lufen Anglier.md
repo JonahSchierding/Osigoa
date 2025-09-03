@@ -1,10 +1,12 @@
 ---
 Type: NPC
 Fraktion: Zirkel des Drachen
+tags:
+  - NPC
 ---
-~~~ 
-Freund im Norden
-~~~
+
+> [!tldr] Freund im Norden
+
 ### Statblock 
 ### Standort
 [[Osigoa/Lore/Orte/Borghöggr]]

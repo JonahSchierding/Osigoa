@@ -1,5 +1,7 @@
 ---
 Type: Session
+tags:
+  - Session
 ---
 Session -1
 
@@ -23,7 +25,7 @@ Session Zero
 - Uhrzeit Beginn
 - Keine Pfeile/Vorräte zählen etc
 - Charakter Sheet online oder in Papier (ich beziehe mich auf 5eTools)
-[[Ultimate Session 0 Checklist.pdf]]
+[[UltimateSessionZeroChecklist.pdf]]
 
 Charakter Fragen:
 

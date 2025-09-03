@@ -1,6 +1,8 @@
 ---
 Type: NPC
 Fraktion: Zirkel des Drachen
+tags:
+  - NPC
 ---
 ### Statblock 
 [[Morty Viper's Sinking Circus - DnD Shorts Adventures-compressed (2) (1).pdf]]

@@ -1,5 +1,7 @@
 ---
 Type: Fraktion
+tags:
+  - Fraktion
 ---
 
 ### Ziele

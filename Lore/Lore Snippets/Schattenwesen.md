@@ -1,0 +1,1 @@
+Kreaturen, die von der [[Schattenebene]] berührt wurden und korrumpiert sind. Sie umgibt ein Schleier aus Schatten, der es schwer macht sie beim anschauen zu fokussieren. Sie sind stärker und aggressiver als zuvor.

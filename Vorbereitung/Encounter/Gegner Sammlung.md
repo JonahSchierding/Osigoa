@@ -3,7 +3,7 @@
 [https://www.chaosgen.com/dnd5e/encounter/road](https://www.chaosgen.com/dnd5e/encounter/road)
 ### CR Calculator
 [https://kastark.co.uk/rpgs/encounter-calculator-5th/](https://kastark.co.uk/rpgs/encounter-calculator-5th/)
-
+Bzw. Plugin Encounter Builder siehe Ribbon links
 ### CR to XP
 
 | **Challenge Rating** | **XP**  |
@@ -53,3 +53,11 @@ Kultist Boss: [[Kult-Champion.png]]
 Drache: [[Oraz Sunhide v1.0-1.pdf]]
 
 Jailer: [Jailer](Jailer.png)  
+
+https://www.youtube.com/watch?v=QOmvtawnT04 enthält:
+- [[Blood Oiler]]
+- [[Explosive Zombie]]
+- [[Kentucky Sawbones]]
+- [[The Coal Baron]]
+- [[Scuttling Arms]]
+- [[obsidian://open?vault=D%26D%205e%202024%20Rules&file=Blood%20Oiler%20-%20Kopie]]

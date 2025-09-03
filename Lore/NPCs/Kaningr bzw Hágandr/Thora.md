@@ -1,6 +1,8 @@
 ---
 Type: NPC
 Fraktion: Player-favored
+tags:
+  - NPC
 ---
 ### Statblock 
 ### Standort

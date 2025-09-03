@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Used": "checkbox",
+    "Last seen": "datetime",
+    "LastSeenSession": "text",
+    "fc-date": "text",
+    "location": "multitext",
+    "mapzoom": "multitext"
+  }
+}

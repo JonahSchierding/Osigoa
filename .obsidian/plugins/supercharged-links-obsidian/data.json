@@ -1,0 +1,98 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/Lore/Orte/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "ab48-f729",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/Lore/NPCs/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "16d8-8e4b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/Lore/Fraktionen",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "b2fa-3589",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/Player Information/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "a8b4-9367",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/Player Information/PCs",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "1eb5-607b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/Sessions",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "e7a2-03eb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Osigoa/lore/Historische Events/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "3e2c-9c2b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

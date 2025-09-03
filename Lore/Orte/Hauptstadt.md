@@ -1,5 +1,10 @@
 ---
 Type: Ort
+tags:
+  - Ort
+  - Stadt
+location:
+mapmarker: Stadt
 ---
 ### Beschreibung
 ### NPCs

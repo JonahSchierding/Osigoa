@@ -1,0 +1,151 @@
+{
+  "mapMarkers": [],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Stadt",
+      "iconName": "city",
+      "color": "#dedede",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Ort",
+        "Stadt"
+      ],
+      "minZoom": 6,
+      "maxZoom": 8
+    },
+    {
+      "type": "Sehenswürdigkeit",
+      "iconName": "place-of-worship",
+      "color": "#d1ffa3",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Ort",
+        "Sehenswürdigkeit"
+      ],
+      "minZoom": 7,
+      "maxZoom": 8
+    },
+    {
+      "type": "Region",
+      "iconName": "map-pin",
+      "color": "#c61010",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Ort",
+        "Region"
+      ],
+      "minZoom": 5,
+      "maxZoom": 6
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "true",
+    "defaultZoom": "8",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Blank Hex.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Blank Hex.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [
+      [
+        "#Stadt"
+      ],
+      [
+        "#Region"
+      ],
+      [
+        "#Sehenswürdigkeit"
+      ]
+    ],
+    "maxZoom": "8",
+    "minZoom": "5",
+    "osmLayer": true,
+    "overlay": [
+      "[blue, [-2, 2], 2500, 'This is my overlay!']"
+    ],
+    "overlayColor": "blue",
+    "scale": "1660",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "Osigoa-Map",
+    "bounds": "",
+    "width": "100%",
+    "lat": "50",
+    "long": "50",
+    "zoomTag": "100 m",
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

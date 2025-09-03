@@ -1,6 +1,8 @@
 ---
 Type: NPC
 Fraktion: Glaucia
+tags:
+  - NPC
 ---
 
 ### Statblock 

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"a523ef08875a4de1","type":"file","file":"Osigoa/Sessions/Session 1 - Aufbruch.md","x":-760,"y":-160,"width":160,"height":50},
+		{"id":"fda0065cb635d21f","type":"file","file":"Osigoa/Sessions/Session 2 - Drachenangriff.md","x":-600,"y":-160,"width":160,"height":50},
+		{"id":"844f5fa1d0d25195","type":"file","file":"Osigoa/Sessions/Session 3 - Seereise und Minenabenteuer.md","x":-440,"y":-160,"width":160,"height":50},
+		{"id":"7d82c44df89e027c","type":"file","file":"Osigoa/Sessions/Session 4 - Religion und Zirkus.md","x":-280,"y":-160,"width":160,"height":50},
+		{"id":"4c2d7fc01efc9c0e","type":"text","text":"Jetzt","x":-760,"y":-245,"width":160,"height":50},
+		{"id":"f0430bb6eb9c13e0","type":"text","text":"Vor 500 Jahren","x":-1080,"y":-245,"width":160,"height":50},
+		{"id":"8c6f6f502670ee11","type":"text","text":"![[Mögliche Lore#Mögliche Ereignisse]]","x":-1080,"y":80,"width":320,"height":460}
+	],
+	"edges":[]
+}

@@ -1,0 +1,466 @@
+{
+  "main": {
+    "id": "0c265f5f5475ec72",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e861495855ddd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ffcb4608c66077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osigoa/Lore/Orte/Vergängliches Hexagon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vergängliches Hexagon"
+            }
+          },
+          {
+            "id": "48503d126fb1ea0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/One Shots/One Shots.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "One Shots"
+            }
+          },
+          {
+            "id": "2e8f5cee002a4053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osigoa/Lore/Lore Snippets/Powerword Begin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Powerword Begin"
+            }
+          },
+          {
+            "id": "f97910d22f010cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osigoa/Lore/Lore Snippets/Eisbeeren.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eisbeeren"
+            }
+          },
+          {
+            "id": "b1fa0be5b0a93061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osigoa/Vorbereitung/Encounter/Item Sammlung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Item Sammlung"
+            }
+          },
+          {
+            "id": "438620db28c65f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osigoa/Lore/Orte/Das dunkle Tal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Das dunkle Tal"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7b90beee8d4b292",
+    "type": "split",
+    "children": [
+      {
+        "id": "16770cd2008f291a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22a1595c8d6ff21a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f564960856eadd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "eisbee",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "235f7852a0c62c42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "615e6f080ca21cee",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "198bf234af2387b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1496bc1cb340e78",
+        "type": "tabs",
+        "dimension": 54.007633587786266,
+        "children": [
+          {
+            "id": "2fd550c9eaa2e614",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Osigoa/OwnAssets/Maps/Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Map"
+            }
+          },
+          {
+            "id": "17b2063d78abc401",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Osigoa/OwnAssets/Maps/Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Map"
+            }
+          },
+          {
+            "id": "0908b2c63269dac9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ffef51604ee35fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Osigoa/OwnAssets/Maps/Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Map"
+            }
+          },
+          {
+            "id": "835fe4692cc088c2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fbb80bb97bba",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 2,
+                    "year": 1497
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 6,
+                    "month": 0,
+                    "year": 1497
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "NONE"
+                },
+                "id": "ID_79dbba386b78"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "78fc825803d36a15",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "a52da190c023d91d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "1e1a25ca3a7c44c8",
+        "type": "tabs",
+        "dimension": 19.083969465648856,
+        "children": [
+          {
+            "id": "86df30475b3d3928",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_fbb80bb97bba",
+                "id": "ID_9b4bc9c8bad9",
+                "parent": "ID_79dbba386b78"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8282293d8df56e35",
+        "type": "tabs",
+        "dimension": 26.908396946564885,
+        "children": [
+          {
+            "id": "38bef65ef985460b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-importer:Open Importer": true,
+      "obsidian-git:Open Git source control": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": true,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "a52da190c023d91d",
+  "lastOpenFiles": [
+    "Osigoa/Vorbereitung/Encounter/Item Sammlung.md",
+    "Osigoa/Views/Encounter Bausteine.canvas",
+    "Osigoa/Vorbereitung/Gefundene Hinweise.md",
+    "Osigoa/Vorbereitung/Session Checkliste.md",
+    "Osigoa/Player Information/Items.md",
+    "Osigoa/Lore/Lore Snippets/Eisbeeren.md",
+    "Osigoa/Lore/Orte/Gebirge des ewigen Schnees.md",
+    "Osigoa/Lore/Fraktionen/Zirkel des Drachen.md",
+    "Osigoa/Lore/Lore Snippets/Powerword Begin.md",
+    "Osigoa/Lore/Lore Snippets/Planar - Sprache.md",
+    "Osigoa/Lore/NPCs/Glaucia/Wulfric.md",
+    "Osigoa/Views/Oneshot Sammlung.canvas",
+    "Osigoa/Views/Views.md",
+    "Assets/One Shots/the_wild_sheep_chase_v2.pdf",
+    "Osigoa/Vorbereitung/Gerüchte.md",
+    "Osigoa/OwnAssets/Maps/Map Glaucia.md",
+    "Osigoa/OwnAssets/Maps/OsigoaMap.png",
+    "Osigoa/Lore/Maps.md",
+    "Osigoa/Player Information/Player Information.md",
+    "Osigoa/Vorbereitung/Encounter/Encounter.md",
+    "Osigoa/Vorbereitung/Vorbereitung.md",
+    "Osigoa/Lore/Orte/Glaucia.md",
+    "Osigoa/Lore/Orte/Das dunkle Tal.md",
+    "Osigoa/Lore/Orte/Eisgipfel.md",
+    "Osigoa/Lore/Orte/Wiederkehrende Weiten.md",
+    "Osigoa/OwnAssets/Maps/MapSnippets/Große Handelsstraße des Nordens.json",
+    "Große Handelsstraße des Nordens.json",
+    "//Große Handelsstraße des Nordens.json",
+    "Osigoa/Lore/Orte/Silbrgipfel.md",
+    "Gebirge des ewigen Schnees.md",
+    "Osigoa/OwnAssets/Maps/Maps.md",
+    "Osigoa/OwnAssets/Maps/MapSnippets/Silbergipfel.json",
+    "Osigoa/OwnAssets/Maps/MapSnippets/Silberberg.json",
+    "Silberberg.json",
+    "//Silberberg.json",
+    "Osigoa/OwnAssets/Maps/MapSnippets/Gbeirge.json",
+    "Gbeirge.json",
+    "Osigoa/Lore/Orte/Hohe See.md",
+    "Assets/Maps/Silberheml.jpg",
+    "Assets/Maps/Blank Hex.png",
+    "Osigoa/Views/DM Screen.canvas",
+    "Osigoa/Lore/Timeline.canvas",
+    "Assets/Thumbnails/Thumbnail1.png",
+    "Assets/Gegner/Koboldkultisten.png",
+    "Assets/Gegner/Jailer.png",
+    "Assets/Sonstiges/1109_Fünfeck-546071273.jpg",
+    "Assets/Sonstiges/Markt-Encounter.png",
+    "Assets/Gegner/Kult-Champion.png",
+    "Assets/Sonstiges/Lady Elara/LadyElara2.webp",
+    "Untitled.canvas"
+  ]
+}

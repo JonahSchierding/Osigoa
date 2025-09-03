@@ -1,5 +1,12 @@
 ---
 Type: Ort
+tags:
+  - Ort
+  - Stadt
+location:
+  - "-4.3"
+  - "9"
+mapmarker: Stadt
 ---
 ### Beschreibung
 [[The Burning of Fairward Falls.pdf]]
@@ -7,6 +14,7 @@ Hafen statt Mühle
 Bezirkshauptstadt des Nordens
 Heiße Quellen  
 Wird wegen [[Lufen Anglier]] von Drachen angegriffen
+Filiale am Hafen von [[The Pandemime Mannie]]
 
 ### NPCs
 

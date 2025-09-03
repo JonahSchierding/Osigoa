@@ -1,3 +1,5 @@
-Wann letztes mal Ritual? 500 Jahre? 
+```calendarium
+```
+Es gab zwei vollständige Episoden, wobei eine Episode 500 Jahre lang ist und von einem [[Ritual der Wiederkehr]] abgeschlossen wird
 
-Portal in [[Silberheml]] Mine vor 60 Jahren geplanted?
+![[Mögliche Lore#Mögliche Ereignisse]]

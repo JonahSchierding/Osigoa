@@ -2,6 +2,9 @@
 Type: Ort
 tags:
   - Template
+  - Ort
+location:
+mapmarker:
 ---
 ### Beschreibung
 ### NPCs

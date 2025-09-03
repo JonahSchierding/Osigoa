@@ -3,3 +3,10 @@ Totems - [[(Rouven)]], [[Gongo (Chris)]], [[Fanny (Jule)]]
 Lil Lightnin Bolt, DC Con geht immer eins hoch bei Usage - [[Fanny (Jule)]]
 - [[Morty Viper's Sinking Circus - DnD Shorts Adventures-compressed (2) (1).pdf]]
 - Con Safe DC: 1
+[[Umberlee]] Amulett - [[Fanny (Jule)]]
+- Spellfokus
+Nixen Amulett - [[Fanny (Jule)]]
+- Swim Speed
+- Unterwasser atmen
+Diverse Plüschtiere
+- Eins gibt Unterwasser atmen? 

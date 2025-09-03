@@ -1,6 +1,8 @@
 ---
 Type: NPC
 Fraktion: Glaucia
+tags:
+  - NPC
 ---
 ### Statblock 
 [[Stolen By The Sea v1.2.pdf]]

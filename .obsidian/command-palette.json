@@ -1,0 +1,6 @@
+{
+  "pinned": [
+    "calendarium:rescan-events",
+    "calendarium:insert-calendarium-current-date"
+  ]
+}
