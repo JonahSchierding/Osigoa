@@ -6,7 +6,10 @@
 		{"id":"fdff0afb378930fb","type":"file","file":"Osigoa/Vorbereitung/Encounter/Dungeon Räume.md","x":-621,"y":320,"width":400,"height":360},
 		{"id":"8af81f8bb0f44d64","type":"text","text":"# Tagesplan\n6-8 Encounter per Day\n[[Oneshot Sammlung.canvas]]","x":-140,"y":320,"width":400,"height":140},
 		{"id":"9b2a0f8e78c5130a","type":"file","file":"Osigoa/Vorbereitung/Encounter/Gegner Sammlung.md","x":-140,"y":-129,"width":400,"height":400},
-		{"id":"edf0d72adf71a61f","type":"file","file":"Assets/Sonstiges/Markt-Encounter.png","x":-960,"y":-360,"width":309,"height":400}
+		{"id":"edf0d72adf71a61f","type":"file","file":"Assets/Sonstiges/Markt-Encounter.png","x":-960,"y":-360,"width":309,"height":400},
+		{"id":"0cdc8b03e4a2d8ad","type":"file","file":"Assets/Sonstiges/Travel Encounters.pdf","x":-960,"y":100,"width":309,"height":400},
+		{"id":"73770435ac15dcac","type":"file","file":"Assets/Sonstiges/City Building.pdf","x":-960,"y":560,"width":309,"height":400},
+		{"id":"6ab436184b1faebf","type":"text","text":"### Encounter Ideen\n- Treffen zwischen [[Lufen Anglier]], [[Wulfric]], [[Anführer des Zirkels]] bei dem Zirkel Sachen besprochen werden und dass [[Captain Dwyn]] fehlt","x":-140,"y":500,"width":400,"height":260}
 	],
 	"edges":[]
 }

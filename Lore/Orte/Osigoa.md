@@ -7,16 +7,12 @@ tags:
 ### NPCs
 ![[Osigoa/Lore/NPCs/Glaucia/Osigoa]]
 ### **Allgemeines über den Kontinent
-Unser Königreich: [[Osigoa/Lore/Orte/Glaucia||Glaucia]] regiert von [[Osigoa/Lore/Fraktionen/Glaucia|Glaucia]]
-Südliches Reich: [[Skoybar]]
+ Nördliches Königreich: [[Osigoa/Lore/Orte/Glaucia||Glaucia]] regiert von [[Osigoa/Lore/Fraktionen/Glaucia|Glaucia]]
+Südliches Reich:  [[Skoybar]] regiert von [[Osigoa/Lore/Fraktionen/Skoybar|Skoybar]]
 Kontinent hat nur zwei Reiche
 [[Osigoa/Lore/Maps]]
  
-### **Planes**  
-Planes können erschaffen, merged, destroyed werden  
-Planes brauchen Energie um zu bestehen (eventuell weave? Eventuell aus Lebewesen ziehen? Eventuell aus einem Gott?)  
-Planar: Eigene Sprache, um Planes zu manipulieren
-Planare Zauber?: [[Zauber]]
+
  
 ### **Schöpfungsmythen:**  
 Verschiedene aber immer teilt sich irgendwie eine Plane in mehrere oder eine Wasserblase in viele etc.

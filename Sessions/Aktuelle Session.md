@@ -1,14 +1,15 @@
 ### Struktur
+- [ ]  Recap
 - [x] Level Up?
-- [ ] Start in Silberheml  
-	- [ ] Hints für main Story  
-	- [ ] Religiöses Viertel?  
-		- [ ] Schöpfungsmythos?  
-		- [ ] Pentagon siehe Lore  
-		- [ ] Zirkel hat sich eingenistet  
-	- [ ] Händler? 
-- [ ] Loot
-- [ ] Eventuell Wachen machen Stress, weil Lufen nichts Neues hört? Eventuell noch zu früh 
-- [ ] Oder Richtung Norden (Tremor Oneshot)?  
+- [ ] [[Downtime]]
+- [ ] Start in [[Silbrheml]]  
+	- [ ] [[Hinweise]]
+	- [ ] [[Gerüchte]]
+- [ ] Loot ([[Item Sammlung]])
+- [ ] Eventuell Wachen machen Stress bei [[Barkuldor (Vincent)]], weil [[Lufen Anglier]] nichts Neues hört? Eventuell noch zu früh 
+- [ ] Oder Richtung Norden (kleines Dorf: Tremor Oneshot, bzw. Hungry Mutts Oneshot)?  
+- [ ] Richtung Norden (Wild Sheep Chase, Zauberer Turm)
 - [ ] Random Wegencounter?  
 - [ ] Oder Nebel? (Druids Oneshot)
+- [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]]
+

@@ -2,6 +2,7 @@
 Type: Fraktion
 tags:
   - Fraktion
+  - Ugly
 ---
 ### Ziele
 - Drachen wollen die Ordnung erhalten?  

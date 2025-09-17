@@ -1,11 +1,10 @@
-- [x] Vorbereitung  
-	- [ ] Prüfen ob alles in [[DM Screen.canvas||DM Screen]] was davor 5etools dmscreen war
-	- [ ] Oneshot suchen  
-	- [ ] Oneshot anpassen  
-		- [ ] Hints für Main Story verstecken 
+- [ ] Vorbereitung  
+	- [x] Oneshot suchen  
+	- [x] [[Oneshot Sammlung.canvas|Oneshot Sammlung]] anpassen  
+		- [ ] Hints für Main Story verstecken
 			- [ ] [[Plot Hooks]]
-			- [ ] Gerüchte in [[DM Screen.canvas||DM Screen]]
-			- [ ] [[Gefundene Hinweise]]
+			- [ ] [[Gerüchte]]
+			- [ ] [[Hinweise]]
 		- [ ] Encounter prüfen 
 			- [ ] [[Encounter Bausteine.canvas|Encounter Bausteine]]
 			- [ ] Loot einbauen  
@@ -17,9 +16,9 @@
 		- [ ] [[Aktuelle Session]]
 	- [ ] Assets zippen und auf Laptop schieben, git pull auf laptop
 	- [ ] Kommunikation an Spieler per Whatsapp
-		- [x] Level Up  
-		- [x] Background Story (Fragen, Ergänzungen, Plot Points gerne auf mich zukommen)
-		- [x] Session  
+		- [ ] Level Up  
+		- [ ] Background Story (Fragen, Ergänzungen, Plot Points gerne auf mich zukommen)
+		- [ ] Session  
 	- [ ] Recap
 	- [ ] Level Up  
 	- [ ] Abenteuern  
@@ -30,7 +29,7 @@
 	- [x] Loot dokumentieren: [[Items]]
 	- [ ] [[Player Information]] updaten
 	- [ ] [[Plot Hooks]] updaten
-	- [ ] [[Gefundene Hinweise]] updaten
+	- [ ] [[Hinweise]] updaten
 	- [ ] [[Lore]] updaten
 	- [ ] [[Osigoa/Lore/Maps||Maps]] updaten
 	- [ ] [[Timeline]] updaten

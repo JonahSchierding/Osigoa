@@ -13,6 +13,7 @@ Stadt nach Bewegung eines Spells designen, also Grundriss der Stadt entspricht B
  
 ## Finale:  
 Zirkel will großes Ritual durchführen um alle Existenzebenen zu zerstören und mit der Macht daraus den Drachen zu erwecken/ihm unendliche Macht zu verleihen  
+Kampf: mit [[Der Drache]] und allen seinen Leutnants
 Eigentlich ist das Ritual der Failsafe, um zu viel machtgier in der Welt loszuwerden  
 Treffen mit Ao (Overgod)  
 Wahlmöglichkeit, ob die Welt (Material Plane) gerettet werden soll (im jetztigen Zustand belassen) oder dass Ritual selbst beendet wird und die Welt in einen neuen Zyklus übergehen (neue Chance auf Gerechtigkeit etc)  

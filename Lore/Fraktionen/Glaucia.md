@@ -2,6 +2,7 @@
 Type: Fraktion
 tags:
   - Fraktion
+  - Gut
 ---
 
 ### Ziele

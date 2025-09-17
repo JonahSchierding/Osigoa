@@ -14,6 +14,7 @@ mapzoom:
 
 
 ### Beschreibung
+Ort im Norden von [[Osigoa/Lore/Orte/Glaucia|Glaucia]]
 Minen/Bergarbeiter Stadt  
 Wichtig für Waffenproduktion  
 Mine war mit Portal in die [[Schattenebene]] versehen, Helden haben das Portal zur [[Schattenebene]] zerstört  

@@ -20,4 +20,13 @@ Anfüherer des Zirkels (der drache) ist paladin oder cleric lich? Betet Gott der
 
 The Morninglord is a picture-perfect representation of a neutral good deity. His portfolio includes dawn, creativity, athletics, renewal, and vitality, and he is often called upon to bless new life into this world.
 
+#### Leutnants
+[[Lufen Anglier]] (Tank)
+[[Wulfric]] (AOEr)
+[[Captain Dwyn]] (Striker)
+[[Berater des Königs]] 
+
+[[Der Drache]] kann seine Leutnants in Geistform auch beschwören, falls sie nicht da/tot sind?
+https://www.youtube.com/watch?v=0JX76k_KbNs: [[Der Drache]] ist Leader, ansonsten siehe oben.
+
 ![[Apotheosis (Cleric Lich)]]

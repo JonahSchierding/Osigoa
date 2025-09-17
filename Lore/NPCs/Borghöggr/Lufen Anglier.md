@@ -3,11 +3,13 @@ Type: NPC
 Fraktion: Zirkel des Drachen
 tags:
   - NPC
+  - Ugly
 ---
 
 > [!tldr] Freund im Norden
 
 ### Statblock 
+Tank
 ### Standort
 [[Osigoa/Lore/Orte/Borghöggr]]
 ### Ziele
@@ -21,3 +23,5 @@ Ist im [[Zirkel des Drachen]] wegen Macht und Geld, konnte so Kontrolle über [[
 
 De facto Anführer der Stadt
 Leitet Stadtwachen in [[Osigoa/Lore/Orte/Borghöggr]] und hat Einfluss auf alle Wachen im Norden
+
+Law and Order Guy, kein Fan von [[Wulfric]], der soll bei seinem Gebiet bleiben 
