@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"118e0b73a63582ef","type":"file","file":"Assets/Sonstiges/Terrifying Encounters & Curses!.pdf","x":-513,"y":771,"width":400,"height":400},
 		{"id":"e0164b2d15f7432d","type":"file","file":"Osigoa/Vorbereitung/Encounter/Shops.md","x":-621,"y":-360,"width":400,"height":186},
 		{"id":"f29c39d6a4561e87","type":"file","file":"Osigoa/Vorbereitung/Encounter/NPC Sammlung.md","x":-140,"y":-354,"width":400,"height":180},
 		{"id":"a3ee00cdc3d26f45","type":"file","file":"Osigoa/Vorbereitung/Encounter/Item Sammlung.md","x":-621,"y":-129,"width":400,"height":400},

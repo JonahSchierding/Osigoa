@@ -8,6 +8,7 @@ tags:
 
 ### Allgemein 
 Spioniert für [[Lufen Anglier]]
+- Hat ihm einmal bereits Informationen gegeben: Reise nach Norden6
 ### Barkuldor (Vincent) Plot Hooks
 - Spioniert für [[Lufen Anglier]]
 - Rage in den Griff bekommen?

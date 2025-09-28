@@ -7,8 +7,14 @@
 - Irgendwie mit Bastion?: vllt. auch im Wüstenabenteur? https://dnd5e.wikidot.com/wondrous-items:apparatus-of-kwalish
 - Ooze aus anderer Plane? https://dnd5e.wikidot.com/wondrous-items:kyrzins-ooze
 - Wenn in Höllen oder Warlock?: https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box
+### Art
 
+- Coole Schriftrolle  [[Twisting_Armory_scroll_free_transparent_01.png]]  
+- Ring [[Twisting_Armory_thankyou_ring.png]]
 ##### Möglicher Loot
+
+Vicious Mockery Necklace: [[Twisting_Armory_thankyou_necklace.png]] bzw. [[Twisting_Armory_thankyou_necklace_a.png]]
+
 
 [Which Magic Items Should You Give Your D&D Party First?](https://www.youtube.com/watch?v=IigBdA-A4P8)
  ![Embedded YouTube video](https://www.youtube.com/embed/IigBdA-A4P8?feature=oembed&autoplay=true)

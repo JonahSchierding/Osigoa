@@ -18,8 +18,8 @@
 
 # Hinweise
 siehe auch [[Gerüchte]]
-- [[Schöpfungsmythen]]
-- [[Wulfric]] im Zirkel
+- [[Schöpfungsmythen]] in Träumen verpacken? Umberlees Amulett?
+- [[Wulfric]] im [[Zirkel des Drachen]]
 - [[König Leostan]] Löwenkopf ist fake
-- [[König Leostans Bruder]] und viele Berater im Zirkel
-- 
+- [[König Leostans Bruder]] und viele Berater im [[Zirkel des Drachen]]
+- [[Zirkel des Drachen]] schreibt mit Geheimtinte

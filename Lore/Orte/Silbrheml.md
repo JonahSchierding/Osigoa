@@ -11,7 +11,9 @@ mapzoom:
   - "6"
   - "8"
 ---
-
+### Events
+[[Lufen Anglier]] lässt Beziehungen spielen, um an neue Infos von [[Barkuldor (Vincent)]] zu kommen
+Feywild Abenteuer (s. [[Oneshot Sammlung.canvas|Oneshot Sammlung]]) auslösen? Helden sind zurück und Tiefling Waisenkind lädt zu Abenteuer ein?
 
 ### Beschreibung
 Ort im Norden von [[Osigoa/Lore/Orte/Glaucia|Glaucia]]
@@ -25,7 +27,7 @@ Der magier [[Wulfric]] machte schabernack in der mine mit portals
 - Im Hafen hat [[Morty Viper's Sinking Circus - DnD Shorts Adventures-compressed (2) (1).pdf]] angelegt und wurde von den Spielern als Bastion übernommen
 - Händler: Blacksmith, Temple Service siehe [[Shops]]
 - In den Slums ist [[The Pandemime Mannie]]
-_Eisbeeren_
+[[Eisbeeren]]
 	In den höchsten höhen, tiefsten abgründen
    
 ![[Silberheml.jpg]]
