@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"bac0de4f2c0aea21","type":"file","file":"Osigoa/Sessions/Aktuelle Session.md","x":-580,"y":-940,"width":500,"height":500},
 		{"id":"2c161082fe6fe7f8","type":"file","file":"Osigoa/Vorbereitung/Hinweise.md","x":-580,"y":-1700,"width":500,"height":720},
-		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n\n### Nachbereitung\n- ","x":-1200,"y":-1260,"width":600,"height":280},
+		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n\n### Nachbereitung\n- Manta der Minotaur arbietet in sanctuary von [[Gongo (Chris)]]\n- Pixie Pixel und [[Thora]] managt Verkauf auf Schiff bei Fanny","x":-1200,"y":-1260,"width":600,"height":280},
 		{"id":"95d8a459632c2b7b","type":"file","file":"Osigoa/Lore/Fraktionen/Fraktionen.md","x":-1200,"y":-400,"width":240,"height":380},
 		{"id":"40db5fb80256dace","type":"file","file":"Osigoa/Lore/Orte/Orte.md","x":-940,"y":-400,"width":240,"height":860},
 		{"id":"36f579357fc019ba","type":"file","file":"Osigoa/Sessions/Sessions.md","x":-680,"y":-400,"width":290,"height":520},
@@ -10,12 +10,12 @@
 		{"id":"3f26780ecc12810f","type":"file","file":"Osigoa/Player Information/PCs/PCs.md","x":-360,"y":-400,"width":200,"height":440},
 		{"id":"8145caa2edebc7d0","type":"file","file":"Osigoa/Player Information/Player Information.md","x":280,"y":-400,"width":400,"height":520},
 		{"id":"a4e2324e501d2e1e","type":"file","file":"Osigoa/Views/NPCs.base","x":-140,"y":-400,"width":400,"height":520},
-		{"id":"d58b1d7be9b2f0bc","type":"text","text":"### Würfeln mit Dice Roller Plugin","x":390,"y":-1200,"width":290,"height":110},
 		{"id":"d7377ae6c46ff0c5","type":"file","file":"Osigoa/Vorbereitung/Encounter/Kämpfe.md","x":-1200,"y":-940,"width":600,"height":500},
 		{"id":"ffc4cae4fb388329","type":"file","file":"Osigoa/Vorbereitung/Gerüchte.md","x":-60,"y":-1700,"width":430,"height":720},
-		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n[[Session 4 - Religion und Zirkus]]","x":390,"y":-1080,"width":290,"height":140},
 		{"id":"85454d79474e7aed","type":"file","file":"Osigoa/OwnAssets/Maps/Map Glaucia.md","x":-1200,"y":-1700,"width":420,"height":420},
-		{"id":"2d339f821de34572","type":"file","file":"Osigoa/Sessions/Session 5 -.md","x":-60,"y":-920,"width":740,"height":480}
+		{"id":"2d339f821de34572","type":"file","file":"Osigoa/Sessions/Session 5 -.md","x":-60,"y":-920,"width":740,"height":480},
+		{"id":"d58b1d7be9b2f0bc","type":"text","text":"### Würfeln mit Dice Roller Plugin","x":390,"y":-1700,"width":290,"height":110},
+		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n[[Session 4 - Religion und Zirkus]]","x":390,"y":-1120,"width":290,"height":140}
 	],
 	"edges":[]
 }

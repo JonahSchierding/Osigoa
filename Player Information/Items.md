@@ -13,3 +13,4 @@ Diverse Plüschtiere
 Tagebuch aus [[Silberhemls religiöses Pentagon]] Thryms Bereich
 - Infos bekommen: [[Zirkel des Drachen]] trifft sich abends/nachts dort regelmäßig
 - Infos fehlen: In Geheimtinte zwischen den Zeilen [[Planar - Sprache]] Zauber
+Invisible Rope: Invisible except to those touching it.

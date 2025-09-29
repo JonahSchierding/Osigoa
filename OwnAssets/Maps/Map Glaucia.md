@@ -44,3 +44,4 @@ Turm des Magiers [[Ahmad Noke]] platzieren (nördlich von [[Silbrheml]])
 
 Gebirge im Süden mit [[Brahmos (Magnus)]] Kloster
 
+[[Gebirge des ewigen Schnees]] ist 

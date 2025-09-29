@@ -14,6 +14,8 @@ tags:
 Genannt: Cap Don Cheesy
 Mag es nicht so gennant zu werden
 
+Tiefe Stimme
+
 Hat mit den Spielern den Zirkus übernommen
 
 Hat gegen seinen alten Direktor gemeutert und ein Schattenbiest auf ihn gehetzt
