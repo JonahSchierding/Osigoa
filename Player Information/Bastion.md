@@ -12,7 +12,7 @@ Schiffe des Versunkenen Zirkus übernommen zusammen mit [[Don Cheesy]]
 Geld wird zusätzlich mit repariertem Zirkuszelt verdient
 
 ### Turn 1
-[[Session 5 -]]
+[[Session 5 - Aufbruch ins Gebirge]]
 - Fanny produziert im Storehouse, Rekrutiert Leute im Storehouse
 - jeweils ein Potion (Healing, [[Blutlotus]]) [[Barkuldor (Vincent)]]
 - [[Gongo (Chris)]] bekommt ein free healing word, 3 pieces of information

@@ -1,8 +1,5 @@
-Party XP: 9,000 XP -> Level 5
-Bereinigte Fight XP pro Kopf: XP -> 3,400 XP Level 4
-
-Temp XP:
-- 
+Party XP: 11,625 XP -> Level 5
+Bereinigte Fight XP pro Kopf: XP -> 4,275 XP Level 4
 
 | **Experience Points** | **Level** | **Proficiency Bonus** |
 | --------------------- | --------- | --------------------- |

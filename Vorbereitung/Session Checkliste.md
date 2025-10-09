@@ -1,6 +1,6 @@
 - [ ] Vorbereitung  
-	- [x] Oneshot suchen  
-	- [x] [[Oneshot Sammlung.canvas|Oneshot Sammlung]] anpassen  
+	- [ ] Oneshot suchen  
+	- [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]] anpassen  
 		- [ ] Hints für Main Story verstecken
 			- [ ] [[Plot Hooks]]
 			- [ ] [[Gerüchte]]
@@ -33,5 +33,4 @@
 	- [ ] [[Lore]] updaten
 	- [ ] [[Osigoa/Lore/Maps||Maps]] updaten
 	- [ ] [[Timeline]] updaten
-	
  

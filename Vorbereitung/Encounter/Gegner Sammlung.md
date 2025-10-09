@@ -41,3 +41,5 @@ Cryptids:
 - [[Skinwalker]] CR 11 https://www.youtube.com/watch?v=EzDUCdEVJLE [[Wulfric]]?
 
 Fey [[Moucheron.pdf]] CR 8
+
+[[Lich King.pdf]] CR 22
