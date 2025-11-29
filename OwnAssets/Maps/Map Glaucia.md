@@ -40,8 +40,8 @@ Inseln in [[Osigoa/Lore/Orte/Hohe See|Hohe See]]
 Süden als Region definieren
 Inseln als Region definieren
 
-Turm des Magiers [[Ahmad Noke]] platzieren (nördlich von [[Silbrheml]])
+[[Turm des Magiers]] [[Ahmad Noke]] platzieren (nördlich von [[Silbrheml]])
 
-Gebirge im Süden mit [[Brahmos (Magnus)]] Kloster
+[[Südliche Berge]] mit [[Brahmos (Magnus)]] Kloster
 
 [[Gebirge des ewigen Schnees]] ist 

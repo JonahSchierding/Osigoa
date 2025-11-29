@@ -14,6 +14,7 @@ fc-end:
 ### Datum
 28.09.2025
 ### Oneshot
+[[Hungry Mutts.pdf]]
 ### Notizen
 [[Don Cheesy]] gibt Infos über [[Zirkel des Drachen]]: 
 - Gibt Essen aus
@@ -31,8 +32,8 @@ Soda Springs
 - Gregor fängt ab
 - Verbingen Nacht dort und lassen sich von Gregor wegführen und kehren zurück
 - Musst Seit einem Jahr in Soda Springs 
-- Bei Nacht reingeschlichen, mit Job Bassel geredet und Infos bekommen
-- Max the Mad auf Patrouille erledigt
+- Bei Nacht reingeschlichen, mit [[Job Bassel]] geredet und Infos bekommen
+- [[Max the Mad]] auf Patrouille erledigt
 - Kerbe neben der Tür von [[Barkuldor (Vincent)]] Schlag am Turm
 - Mutts besiegt und Turm gelootet
 - Next Step: Dorfbewohner informieren und Tremor in the Yawn wegen erdbeben und löchern etc. Dorfbewohner retten

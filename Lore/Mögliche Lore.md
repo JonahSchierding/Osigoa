@@ -14,7 +14,7 @@ Stadt nach Bewegung eines Spells designen, also Grundriss der Stadt entspricht B
 ## Finale:  
 Zirkel will großes Ritual durchführen um alle Existenzebenen zu zerstören und mit der Macht daraus den Drachen zu erwecken/ihm unendliche Macht zu verleihen  
 Kampf: mit [[Der Drache]] und allen seinen Leutnants
-Eigentlich ist das Ritual der Failsafe, um zu viel machtgier in der Welt loszuwerden  
+Eigentlich ist das [[Ritual der Wiederkehr]] der Failsafe, um zu viel machtgier in der Welt loszuwerden  
 Treffen mit Ao (Overgod)  
 Wahlmöglichkeit, ob die Welt (Material Plane) gerettet werden soll (im jetztigen Zustand belassen) oder dass Ritual selbst beendet wird und die Welt in einen neuen Zyklus übergehen (neue Chance auf Gerechtigkeit etc)  
 (reformation vs revolution)  
@@ -29,6 +29,8 @@ Erde - Unter [[Brahmos (Magnus)]] Kloster?
 Wasser - Geiler Unterwassertempel? Rückkehr [[Captain Dwyn]]?
 Feuer - [[Osigoa/Lore/Orte/Kaningr bzw Hágandr]] Verbindung zu [[Fanny (Jule)]] Ofen 
 Luft - [[Zirkel des Drachen]] sucht die ganze Zeit frenatisch, nicht verstehend dass überall ein Tempel für Luft sein kann
+Licht - Treffen mit [[Lathander]]
+Dunkelheit - [[Thrym]]?
 
 
 ### Mögliche Ereignisse
@@ -42,4 +44,4 @@ Ritual um Planes zu mergen vor 500 Jahren? und jetzt wieder? Konjunktion als Nam
 [[Gongo (Chris)]] wird von [[Eisriesen]] großgezogen und ausgesetzt
 [[Fanny (Jule)]] Großmutter ist in einer Süßigkeiten/Back Plane
 
-Bürgerkrieg vor 500 Jahren, Vertreibung der Thrym Anhänger in [[Silbrheml]] 
+

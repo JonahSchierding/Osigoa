@@ -20,7 +20,7 @@ Zwergische Notiz wann sich der Zirkel trifft im verlassenen Thrym Bereich
 Wurden dabei wahrgenommen, andere finden das nicht gut  
 Eversmoking bottle gesehen aber dort gelassen  
 Gesammelte Infos aus dem Keller und von [[Don Cheesy]]:  
-- Es gab einen Bürgerkrieg vor langer Zeit (Was sie nicht wissen: zur Zeit des letzten mal als der Drache alle Planes schmelzen wollte, Thryms Anhänger hassten [[Zirkel des Drachen]] und wurden deshalb (obwohl unschuldig) als schuldig erklärt und aus stadt vertrieben)  
+- Es gab einen [[Bürgerkrieg in Silberheml]] vor langer Zeit
 - [[Zirkel des Drachen]] trifft sich abends  
 - [[Zirkel des Drachen]] hilft allen (was sie nicht wissen: gibt essen aus)  
 Waren im Zirkus  

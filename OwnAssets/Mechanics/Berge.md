@@ -1,0 +1,17 @@
+- Survival checks for tracking, assessing dangerous paths, any "knowledge of terrain" issues. Survival checks at morning and night every day, to see whether their camp-activities go well or poorly.
+- Athletics checks for climbing, leaping over gorges, etc.
+- Acrobatics checks for avoiding avalanches, navigating on scree.
+- CON checks frequently, to drive home the risk of exhaustion. I'd homebrew some sort of altitude sickness effects, as well. (Disadvantage on DEX and INT while affected maybe)
+- crevices (with or without rivers)
+- steep "wall" (best find a way around, usually have some bird nests in stupidly inaccessible places, a bird of prey alone isn't dangerous, but when you are struggling to maintain balance and it attacks you once (then decides that attacking you is pointless and goes hunting for mice) is scary).
+- Goat, Goat variants, more goat herds.
+- lose rocks (gets boring if you have too many of them)
+- the cold (and other elements, no fire wood)
+- getting lost (not that big of a problem if you are just going up, but if you want to get somewhere specific...)
+- lack of food
+- undead (angry ghost?) or dead travellers (look at these other people who tried to climb, they died of hyperaemia)
+- Opportunities to save time but at higher risks, Low risk path involves higher consumption of supplies, higher risk comes with some rolls, some dangerous some near effortless but with the risk of failure.
+- Rockslide: The party must make Dexterity saving throws to avoid falling rocks and debris.
+- They can choose to take cover, find a safer route, or use their abilities to mitigate the danger.
+- Weather: Storm, Snow Storm
+- Lake

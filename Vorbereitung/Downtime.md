@@ -1,6 +1,6 @@
 ## Ideen
 - Einkaufen ([[Shops]])
-- Neue Fähigkeit lernen
+- Neue Fähigkeit lernen ([[Kontrolliertes Risiko]])
 - Items/Waffen verbessern/reparieren
 - [[Osigoa/Lore/NPCs/Bastion/Bastion|Bastion]]
 - Informationen sammeln ([[Hinweise]], [[Gerüchte]])

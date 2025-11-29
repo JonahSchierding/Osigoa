@@ -3,3 +3,6 @@ Es war einmal eine Zeit, in der es nur Wasser gab und eine einzige Blase im Wass
 
 ### [[Thrym]]
 Eisriesenkopf wird immer größer und ploppt in zwei, die größer werden und ploppen usw.
+
+### [[Lathander]]
+Eine Sonne sitzt als Kopf auf einer Person, wird immer größer und ploppt in zwei, die größer werden und ploppen usw.

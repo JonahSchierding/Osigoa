@@ -8,11 +8,11 @@
 
 ### Allgemeine Plot Hooks:
 
-
 1. Bücherei finden?
 2. Zirkel weiter untersuchen in Silberheml
 3. Magier Ahmad Noke aus dem Schaf Oneshot suchen
 4. Weiter nach Norden ziehen
+5. [[Osigoa/Lore/NPCs/Bastion/Bastion|Bastion]] leidet unter hohen Steuern 
 
 
 ![[Gongo (Chris)#Gongo (Chris) Plot Hooks]]

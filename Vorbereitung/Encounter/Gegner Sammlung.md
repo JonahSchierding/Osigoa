@@ -43,3 +43,18 @@ Cryptids:
 Fey [[Moucheron.pdf]] CR 8
 
 [[Lich King.pdf]] CR 22
+
+[[Shield Shrew.pdf]] CR 0
+
+[[Squash Specter.pdf]] CR 1
+
+[[Beggar Fiend.pdf]] CR 4
+
+[[Elaine.pdf]] CR 10
+
+[[Tavern Mimic.pdf]] CR 14
+
+[[The Oblex Reblobbed.png]] CR 10
+
+
+![[Gegner]]

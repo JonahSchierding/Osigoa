@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"bac0de4f2c0aea21","type":"file","file":"Osigoa/Sessions/Aktuelle Session.md","x":-580,"y":-940,"width":500,"height":500},
 		{"id":"2c161082fe6fe7f8","type":"file","file":"Osigoa/Vorbereitung/Hinweise.md","x":-580,"y":-1700,"width":500,"height":720},
-		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n\n### Nachbereitung\n- Manta der Minotaur arbietet in sanctuary von [[Gongo (Chris)]]\n- Pixie Pixel und [[Thora]] managt Verkauf auf Schiff bei Fanny","x":-1200,"y":-1260,"width":600,"height":280},
+		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n### Nachbereitung\n- Manta der Minotaur arbietet in sanctuary von [[Gongo (Chris)]]\n- Pixie Pixel und [[Thora]] managt Verkauf auf Schiff bei Fanny","x":-1200,"y":-1260,"width":600,"height":280},
 		{"id":"95d8a459632c2b7b","type":"file","file":"Osigoa/Lore/Fraktionen/Fraktionen.md","x":-1200,"y":-400,"width":240,"height":380},
 		{"id":"40db5fb80256dace","type":"file","file":"Osigoa/Lore/Orte/Orte.md","x":-940,"y":-400,"width":240,"height":860},
 		{"id":"d6ab484a63d7d5f9","type":"text","text":"# Platzhalter Session 5","x":-60,"y":-920,"width":740,"height":480,"color":"3"},

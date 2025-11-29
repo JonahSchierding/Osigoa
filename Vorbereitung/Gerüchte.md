@@ -10,3 +10,7 @@ siehe auch [[Hinweise]]
 - Geheimes Projekt in der Wüste (Golemproduktion) [[Zirkel des Drachen]] dahinter?
 - Richtung [[Gebirge des ewigen Schnees]]: Drachensichtung und/oder [[Eisriesen]]-Spuren, besonders zwischen [[Eisgipfel]] und [[Das dunkle Tal]]
 - Seltsame Wesen im Gebirge (Wendigo, Chuca, Skinchanger (Hexerzirkel))(teasered)
+- König will mehr Steuern
+- Unterirdischer Tempel im Gebirge (verbindung mit NPC?)
+- Drachen im Gebirge
+- Drachen haben [[Gongo (Chris)]] Eisriesen-Papa als Geisel?

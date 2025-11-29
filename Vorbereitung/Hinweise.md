@@ -16,9 +16,8 @@
 ### [[Osigoa/Lore/Orte/Glaucia|Glaucia]]
 - Wieder im Krieg mit [[Osigoa/Lore/Orte/Skoybar|Skoybar]]
 ### [[Thrym]]
-Auf Verlierer Seite des Bürgerkriegs in [[Silberheml]]
-Bürgerkrieg vor 497 Jahren
-"Anhänger des Drachens" ([[Zirkel des Drachen]]) gewinnen Bürgerkrieg
+Auf Verlierer Seite des [[Bürgerkrieg in Silberheml]]
+
 
 
 
@@ -29,4 +28,7 @@ siehe auch [[Gerüchte]]
 - [[König Leostan]] Löwenkopf ist fake
 - [[König Leostans Bruder]] und viele Berater im [[Zirkel des Drachen]]
 - [[Zirkel des Drachen]] schreibt mit Geheimtinte
-- Bürgerkrieg vom [[Zirkel des Drachen]] zwar gewonnen aber von mutigen Helden wird der gerettet
+- Bürgerkrieg vom [[Zirkel des Drachen]] zwar gewonnen aber von mutigen Helden wird der Tag gerettet
+- [[Thyrm]]s Anhänger haben Tempel in den [[Südliche Berge]]
+- Monde [[Aeterna Nova]] und [[Aeterna Vetus]]
+- 

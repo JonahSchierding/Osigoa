@@ -1,16 +1,15 @@
 ### Struktur
 - [ ]  Recap
+- [ ] Hinweise: Kollaboratives Storytelling, ihr könnt immer gerne Sachen dazuerfinden und eure Backstory ausbauen
 - [x] Level Up?
-- [ ] [[Downtime]]
-	- [ ] [[Osigoa/Player Information/Bastion|Bastion]]
-- [ ] Start in [[Silbrheml]]  
-	- [ ] ![[Hinweise]]
-	- [ ] ![[Gerüchte]]
+- [x] [[Downtime]]
+	- [x] [[Osigoa/Player Information/Bastion|Bastion]]
+- [ ] Start in [[Osigoa/Lore/Orte/Soda Springs|Soda Springs]]], Nacht, grade gegen Böse gekämpft, Erdbeben, Rufe aus dem Dorf Tremor Oneshot, [[Brahmos (Magnus)]] taucht aus dem Nichts aus, war auf einer höllischen Ebene ([Phlegethos](https://forgottenrealms.fandom.com/wiki/Phlegethos)), hat immer Sog gespürt von den Amuletten, Amulette haben Sog in die Berge [[Druidentempel]]
 - [ ] Loot ([[Item Sammlung]])
-- [ ] Eventuell Wachen machen Stress bei [[Barkuldor (Vincent)]], weil [[Lufen Anglier]] nichts Neues hört? Eventuell noch zu früh 
-- [ ] Oder Richtung Norden (kleines Dorf: Tremor Oneshot, bzw. Hungry Mutts Oneshot)?  
-- [ ] Richtung Norden (Wild Sheep Chase, Zauberer Turm) [[Ahmad Noke]]
-	- [ ] Verzögerung: Kann Infos beschaffen
+- [ ]  Richtung Norden (Drachen, Riesen, Hexerzirkel([[Wulfric]]), Tempel in den Bergen [[Druidentempel]] als [[Lathander]]s Tempel)?  siehe auch [[Ritual der Wiederkehr]]
+- [ ] [[Berge]]
+- [ ] NPC aus [[Osigoa/Lore/Orte/Soda Springs|Soda Springs]] als Guide? (Will Bruder finden?)
+- [ ] Richtung Süden (Wild Sheep Chase, Zauberer Turm oder [[Silbrheml]]) [[Ahmad Noke]]
 - [ ] Random Wegencounter? [[Encounter Bausteine.canvas|Encounter Bausteine]]
 - [ ] Oder Nebel? (Druids Oneshot)
 - [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]]
