@@ -7,7 +7,8 @@ Schiffe des Versunkenen Zirkus übernommen zusammen mit [[Don Cheesy]]
 
 [[Barkuldor (Vincent)]]: 2 Gärten (Herb, [[Blutlotus]])
 [[Gongo (Chris)]]: Sanctuary (Keilschrift unter deck in die Planken geritzt + Altar mit Vertiefung in das Wachs läuft als Charm, Minotaur als Hireling), Library (2 Bücher: How to read for dummies, How to teach a dummie)
-[[Fanny (Jule)]]: Storehouse (als Bäckerei gefüllt), Baracke (4 Leute als Söldner rotierend)
+[[Fanny (Jule)]]: Storehouse (als Konditorei gefüllt), Baracke (4 Leute als Söldner rotierend)
+[[Brahmos (Magnus)]]: Baracke, Bibliothek
 
 Geld wird zusätzlich mit repariertem Zirkuszelt verdient
 

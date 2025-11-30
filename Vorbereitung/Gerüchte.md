@@ -3,6 +3,8 @@
 - König will mehr Steuern
 - Seltsame Wesen im Gebirge (Wendigo, Chuca, Skinchanger (Hexerzirkel)) 
 - Einzelnes Dorf im [[Gebirge des ewigen Schnees]] (Trevor Canyon und Hungry Mutts merged s. [[Soda Springs]])
+- [[Gongo (Chris)]] träumt von Eisriesen in Ketten
+- Schöpfungsmythos: Aus einer Pflanze werden viele auf Lichtung in Duschungel PLane (Traum [[Brahmos (Magnus)]])
 # Gerüchte
 siehe auch [[Hinweise]]
 - Menschen verschwinden und tauchen später wieder auf (verschwinden schon erfahren)
