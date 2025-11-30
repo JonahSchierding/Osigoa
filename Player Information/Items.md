@@ -10,8 +10,17 @@ Nixen Amulett - [[Fanny (Jule)]]
 	- Unterwasser atmen
 Diverse Plüschtiere
 	- Eins gibt Unterwasser atmen? 
+Invisible Rope: 
+	- Invisible except to those touching it.
+
+#### Bücher
 Tagebuch aus [[Silberhemls religiöses Pentagon]] Thryms Bereich
 	- Infos bekommen: [[Zirkel des Drachen]] trifft sich abends/nachts dort regelmäßig
 	- Infos fehlen: In Geheimtinte zwischen den Zeilen [[Planar - Sprache]] Zauber
-Invisible Rope: 
-	- Invisible except to those touching it.
+Buch aus Turm aus der Hölle:
+	- common und [[Planar - Sprache|Planar]] gemischt
+	- Art Notizbuch
+
+#### Scrolls
+- Wall of Stone
+

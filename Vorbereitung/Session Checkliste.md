@@ -1,5 +1,5 @@
 - [ ] Vorbereitung  
-	- [x] Oneshot suchen  
+	- [ ] Oneshot suchen  
 	- [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]] anpassen  
 		- [ ] Hints für Main Story verstecken
 			- [ ] [[Plot Hooks]]
@@ -25,8 +25,8 @@
 		- [ ] [[DM Screen.canvas||DM Screen]]
 	- [ ] Feedback
 - [ ] Nachbereitung 
-	- [ ] XP verrechnen: [[Level Progress]]
-	- [ ] Loot dokumentieren: [[Items]]
+	- [x] XP verrechnen: [[Level Progress]]
+	- [x] Loot dokumentieren: [[Items]]
 	- [ ] [[Player Information]] updaten
 	- [ ] [[Plot Hooks]] updaten
 	- [ ] [[Hinweise]] updaten
