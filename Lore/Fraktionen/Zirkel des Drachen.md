@@ -11,7 +11,7 @@ tags:
 - Avater für [[Der Drache]] erschaffen 
 - https://www.youtube.com/watch?v=_lN9ZaaRcjo
 ### Braucht dafür
-- Kontrolle über Elementartempel für Auferstehung
+- Kontrolle über Elementartempel der Dunkelheit für Auferstehung (Weil er Auserwählter der Dunkelheit ist)
 - Grab von [[Der Drache]] für Auferstehung
 - Körper/Avatar den [[Der Drache]] annehmen kann
 

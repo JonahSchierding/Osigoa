@@ -6,6 +6,8 @@ tags:
 Statblock: [[Gongo (Chris) CS.pdf]]
 
 ### Allgemein
+> [!cite] Auserwählter der Erde
+
 Sucht nach Eisriesen
 Thrym entdecken
 Eventuell hat jemand den Riesen Träume geschickt, um sie gegen die Drachen aufzuhetzen  

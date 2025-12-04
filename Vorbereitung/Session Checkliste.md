@@ -25,8 +25,8 @@
 		- [ ] [[DM Screen.canvas||DM Screen]]
 	- [ ] Feedback
 - [ ] Nachbereitung 
-	- [x] XP verrechnen: [[Level Progress]]
-	- [x] Loot dokumentieren: [[Items]]
+	- [ ] XP verrechnen: [[Level Progress]]
+	- [ ] Loot dokumentieren: [[Items]]
 	- [ ] [[Player Information]] updaten
 	- [ ] [[Plot Hooks]] updaten
 	- [ ] [[Hinweise]] updaten

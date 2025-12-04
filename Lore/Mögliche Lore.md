@@ -24,14 +24,7 @@ Als Abschlussgeschenk das Buch 'Im Grunde gut' mit widmung? In Erinnerung an _Ch
 
 Kultisten haben magisches Mal, das nicht zu sehen ist (ausnahme detect magic oÄ)
 
-### Elementar Tempel
-Erde - Unter [[Brahmos (Magnus)]] Kloster?
-Wasser - Geiler Unterwassertempel? Rückkehr [[Captain Dwyn]]?
-Feuer - [[Osigoa/Lore/Orte/Kaningr bzw Hágandr]] Verbindung zu [[Fanny (Jule)]] Ofen 
-Luft - [[Zirkel des Drachen]] sucht die ganze Zeit frenatisch, nicht verstehend dass überall ein Tempel für Luft sein kann
-Licht - Treffen mit [[Lathander]]
-Dunkelheit - [[Thrym]]?
-
+[[Elementartempel]]
 
 ### Mögliche Ereignisse
 Ritual bei Elementartempel

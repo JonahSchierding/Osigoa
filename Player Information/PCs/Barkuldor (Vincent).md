@@ -7,6 +7,8 @@ tags:
 [[Barkuldor (Vincent) CS.pdf]]
 
 ### Allgemein
+> [!cite] Auserwählter des Feuers
+
 Spioniert für [[Lufen Anglier]]
 - Hat ihm einmal bereits Informationen gegeben: Reise nach Norden
 ### Barkuldor (Vincent) Plot Hooks
