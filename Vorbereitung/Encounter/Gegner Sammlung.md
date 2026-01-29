@@ -56,5 +56,7 @@ Fey [[Moucheron.pdf]] CR 8
 
 [[The Oblex Reblobbed.png]] CR 10
 
+Jäger s. Zusammenfassung unten CR2 bzw. CR4
+
 
 ![[Gegner]]

@@ -74,3 +74,4 @@ Vicious Mockery Necklace: [[Twisting_Armory_thankyou_necklace.png]] bzw. [[Twist
 - Für Abwasser-Abenteuer: https://www.dndbeyond.com/magic-items/4697-pipes-of-the-sewers
 - https://www.dndbeyond.com/magic-items/4756-sovereign-glue
 - [17:09](https://www.youtube.com/watch?v=2VUuRnG5a-Y&t=1029s) Goggles of Night
+![[Assets/Items/Items|Items]]

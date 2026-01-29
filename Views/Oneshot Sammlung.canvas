@@ -7,7 +7,6 @@
 		{"id":"05d14f0cada055c4","type":"file","file":"Assets/One Shots/Druids of the Carnivorous Jungle.pdf","x":-777,"y":-2500,"width":217,"height":220},
 		{"id":"87b8b14a23fd1c9c","type":"text","text":"#### Level 2 mit Premade Charakteren\n \nDruiden im Wald, als Prüfung im mysteriösen Nebel, Großer Baum gibt einen (kryptischen Hinweis für jeden Charakter bei bestehen)\n\nXP skalieren weil Lvl 2 XP sonst irrelevant?","x":-777,"y":-2230,"width":217,"height":350},
 		{"id":"0fc7e8123ce570e9","type":"text","text":"# Backlog","x":-777,"y":-2600,"width":157,"height":60},
-		{"id":"4bb536787a8dbc2c","type":"file","file":"Assets/One Shots/Wizards_of_the_Toast - v1.1 SPREADS.pdf","x":-548,"y":-2500,"width":228,"height":220},
 		{"id":"bd8c9e31234b41da","type":"text","text":"#### Level 3, 7 oder 12\n \nFabrik in Wüste, Sandsteingolems, hohe Steuern\n \nSatire auf neue DnD Lizenz, Wizards of the Toast, Ressourcen Management wichtig hier, darauf hinweisen?\n \nReflavor: König braucht Geld für Krieg und ein Berater ist der gierige Dude Hasbrodeus (Drache nehmen ist schlecht im Kontext probbaly für Pumpernax, eventuell mit Sandstein Konstrukt ersetzen)?  \nNicht nur Bäcker (zu sehr Fanny focused, sondern alle Handwerke?)  \nGolems aus Sandstein?  \nStatt Charcoal Spikes, Glas Spikes?","x":-542,"y":-2230,"width":217,"height":710},
 		{"id":"e9a749c865518010","type":"text","text":"#### Level 4\n\nNew founded Miners Town has a problem\n\nEventuell mit Hungry Mutts mergen?\n\nHier leben Anhänger von [[Thrym]] ","x":-308,"y":-2230,"width":217,"height":350},
 		{"id":"a63450300caef410","type":"file","file":"Assets/One Shots/Tremor in the Yawning Canyons.pdf","x":-308,"y":-2500,"width":217,"height":220},
@@ -39,7 +38,14 @@
 		{"id":"c2e685d6234a71d4","type":"text","text":"### Level ?","x":1360,"y":-2230,"width":200,"height":271},
 		{"id":"5970ce9552cb62ac","type":"text","text":"### Level ?","x":1600,"y":-2229,"width":200,"height":271},
 		{"id":"599e45990829d8be","type":"file","file":"Assets/One Shots/Mausoleum/Mausoleum.md","x":1600,"y":-2494,"width":200,"height":214},
-		{"id":"31b996ee3a75c081","type":"text","text":"","x":3451,"y":-2600,"width":250,"height":60}
+		{"id":"31b996ee3a75c081","type":"text","text":"","x":3451,"y":-2600,"width":250,"height":60},
+		{"id":"03aaf81d6c99ccea","type":"file","file":"Assets/One Shots/Druidenhain/Druidenhain.md","x":1840,"y":-2494,"width":200,"height":214},
+		{"id":"168b0aac6db48ba7","type":"text","text":"### Level ?","x":1840,"y":-2229,"width":200,"height":271},
+		{"id":"5f03cf6bab636ee2","type":"file","file":"Assets/One Shots/Wizards_of_the_Toast - v1.1 SPREADS-1.pdf","x":-542,"y":-2500,"width":217,"height":220},
+		{"id":"32d6273b7ee05c2c","type":"text","text":"### Level 4","x":2080,"y":-2231,"width":200,"height":271},
+		{"id":"1c0fb7cd2383e2a5","x":2080,"y":-2493,"width":200,"height":213,"type":"file","file":"Assets/One Shots/Adventure - The Shrouded Lighthouse.pdf"},
+		{"id":"17c996a84b8aa6c8","x":2320,"y":-2495,"width":200,"height":215,"type":"file","file":"Assets/One Shots/tomb of horrors but XP to Level 3 made it.pdf"},
+		{"id":"434cf6aed41a44e2","type":"text","text":"### Level ?","x":2320,"y":-2229,"width":200,"height":271}
 	],
 	"edges":[
 		{"id":"c1018c30a92d0707","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"2cdf011dd6531c81","toSide":"right"},
@@ -47,7 +53,6 @@
 		{"id":"a2cd65fc78b704a3","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"1529c24edeb278c4","toSide":"right"},
 		{"id":"40ff2c910d88ae8d","fromNode":"05d14f0cada055c4","fromSide":"left","toNode":"0138369800cb0972","toSide":"right"},
 		{"id":"d458f91766131a08","fromNode":"05d14f0cada055c4","fromSide":"bottom","toNode":"87b8b14a23fd1c9c","toSide":"top"},
-		{"id":"40ec0c21ba875c11","fromNode":"4bb536787a8dbc2c","fromSide":"bottom","toNode":"bd8c9e31234b41da","toSide":"top"},
 		{"id":"61732bde341633a7","fromNode":"a63450300caef410","fromSide":"bottom","toNode":"e9a749c865518010","toSide":"top"},
 		{"id":"5447a2f5c87f3f3c","fromNode":"6fe7471a3e2efbcb","fromSide":"bottom","toNode":"89db880fb0f6b9a5","toSide":"top"}
 	]
