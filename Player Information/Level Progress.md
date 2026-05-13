@@ -1,3 +1,5 @@
+Aktuelles Level: 6
+
 Party XP: 14,125 XP -> Level 6
 Bereinigte Fight XP pro Kopf: XP -> 4,900 XP Level 4
 
