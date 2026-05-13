@@ -4,8 +4,8 @@ tags:
   - Ort
   - Sehenswürdigkeit
 location:
-  - "-2.3"
-  - "6.6"
+  - "-1.4"
+  - "7.1"
 mapmarker: Sehenswürdigkeit
 ---
 ### Beschreibung

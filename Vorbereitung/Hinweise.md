@@ -1,5 +1,6 @@
 
 # Gefundene Hinweise
+
 ### [[Planar - Sprache]]
 - [[Fanny (Jule)]] merkt sich das Zeichen für "Schatten" 
 
@@ -17,8 +18,6 @@
 - Wieder im Krieg mit [[Osigoa/Lore/Orte/Skoybar|Skoybar]]
 ### [[Thrym]]
 Auf Verlierer Seite des [[Bürgerkrieg in Silberheml]]
-
-
 
 
 # Hinweise

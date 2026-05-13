@@ -26,7 +26,7 @@ Spielercharaktere und andere Wesen zurück auf ihre Plane (ähnlich Banish aber 
 
 Gegner Wesen weiter ins Afterlife  ([[Schattenwesen]]?)
 Dunkle Macht mad (War die demi? Plane wichtig oder der endboss?)  
-Spieler haben **Totems** bekommen siehe [[Items]]
+Spieler haben **Totems** bekommen siehe [[Osigoa/Player Information/Items|Items]]
 Regret bei Dorfbewohnern
 [[Thora]] als Gesellin in Backstube von [[Fanny (Jule)]]
 

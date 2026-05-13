@@ -17,7 +17,7 @@ tags:
 
 - Menschenopfer für Planes mergen
 - [[Powerword Begin]] für Planes mergen
-- Artefakt für Planes mergen
+- Artefakt ([[Waage der Entscheidung]]) für Planes mergen
 ### Standort
 [[Osigoa/Lore/Orte/Osigoa]]
 ### Beschreibung
@@ -30,6 +30,8 @@ Kultisten benötigen für Ritual, [[Powerword Begin]], Artefakt und speziellen O
 
 ### Phrases 
 "Zur Erkenntnis kommen"
+
+"Sich der Last erledigen" (Geheimnise beichten, für Leverage gegen Anhänger)
 
 "Für Zirkel und Drache" ist keine Phrase
 ### Mitglieder

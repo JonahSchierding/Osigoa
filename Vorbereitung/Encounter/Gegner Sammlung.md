@@ -56,6 +56,9 @@ Fey [[Moucheron.pdf]] CR 8
 
 [[The Oblex Reblobbed.png]] CR 10
 
+[[Sanguine Bile.png]] CR 7
+[[Sanguine Splash.png]] CR 2
+
 Jäger s. Zusammenfassung unten CR2 bzw. CR4
 
 

@@ -1,13 +1,14 @@
 
 ### Legendary Loot
 - [[Eisbeeren]]
-- Artefakt für [[Episoden-Ritual]]
+- Artefakt für [[Ritual der Wiederkehr]] ([[Waage der Entscheidung]])
 - Bei Charaktertod, Verstümmelung anbieten und dann später: https://dnd5e.wikidot.com/wondrous-items:arcane-propulsion-arm
 - Wenn [[Barkuldor (Vincent)]] oder [[Brahmos (Magnus)]] weiter gamblen: https://dnd5e.wikidot.com/wondrous-items:card-sharps-deck
 - Irgendwie mit Bastion?: vllt. auch im Wüstenabenteur? https://dnd5e.wikidot.com/wondrous-items:apparatus-of-kwalish
 - Ooze aus anderer Plane? https://dnd5e.wikidot.com/wondrous-items:kyrzins-ooze
 - Wenn in Höllen oder Warlock?: https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box
 - [[Barkuldor (Vincent)]] +1 dmg auf Greataxe für 60 Gold
+- [[Feywild Adventure.pdf]] https://www.dndbeyond.com/magic-items/4527176-box-of-fey-chocolates
 ### Art
 
 - Coole Schriftrolle  [[Twisting_Armory_scroll_free_transparent_01.png]]  

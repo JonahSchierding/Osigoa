@@ -13,6 +13,6 @@ Früchte (Eisbeeren) im Norden am Suchen: Eisriesen oder Drachen
 - [[Eisbeeren]]: Tiefsten Tiefen und höchten Höhen bzw. Bei Eisriesen in der Höhle und bei Drachen auf dem Berg
 - Privatfehde mit [[The Pandemime Mannie]] wegen Backgeschäften
 - Cake Plane von der  [[Fannys Großmutter]] erzählt hat
-- Ofen als Patron (Genie-based?)
+- Ofen als Patron (Genie-based?) [[Primordial]] der Luft gibt Ofen seine Macht und auch Fanny
 ### Gegenspieler
 ![[The Pandemime Mannie]]

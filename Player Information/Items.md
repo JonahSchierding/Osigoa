@@ -19,9 +19,11 @@ Invisible Rope:
 Tagebuch aus [[Silberhemls religiöses Pentagon]] Thryms Bereich
 	- Infos bekommen: [[Zirkel des Drachen]] trifft sich abends/nachts dort regelmäßig
 	- Infos fehlen: In Geheimtinte zwischen den Zeilen [[Planar - Sprache]] Zauber
+
 Buch aus Turm aus der Hölle ([[Brahmos (Magnus)]]):
 	- common und [[Planar - Sprache|Planar]] gemischt
 	- Art Notizbuch
+	- Kann eventuell beim Lernen/Entschlüsseln vn [[Planar - Sprache]]
 
 #### Scrolls
 - Wall of Stone

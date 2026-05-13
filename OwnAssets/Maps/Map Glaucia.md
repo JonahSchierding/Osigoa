@@ -29,6 +29,7 @@ geojson: MapSnippets/Hohe See.json|Hohe See|[[Osigoa/Lore/Orte/Hohe See|Hohe See
 geojson: MapSnippets/Silbergipfel.json|Silbergipfl|[[Silbergipfel|Silbrgipfel]]
 geojson: MapSnippets/Gebirge des ewigen Schnees.json|Gebirge des ewigen Schnees|[[Osigoa/Lore/Orte/Gebirge des ewigen Schnees|Gebirge des ewigen Schnees]]
 geojson: MapSnippets/Norden.json|Norden|[[Osigoa/Lore/Orte/Glaucia#Beschreibung|Glaucia]]
+[[Osigoa/Lore/Orte/Soda Springs|Soda Springs]]
 
 
 ```
@@ -43,5 +44,3 @@ Inseln als Region definieren
 [[Turm des Magiers]] [[Ahmad Noke]] platzieren (nördlich von [[Silbrheml]])
 
 [[Südliche Berge]] mit [[Brahmos (Magnus)]] Kloster
-
-[[Gebirge des ewigen Schnees]] ist 
