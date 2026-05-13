@@ -1,0 +1,1 @@
+Kann zu Trank verarbeitet werden: 1d4 auf Schaden für 10 Minuten aber Con 14 sonst poisened
