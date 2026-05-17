@@ -9,6 +9,7 @@
 - Wenn in Höllen oder Warlock?: https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box
 - [[Barkuldor (Vincent)]] +1 dmg auf Greataxe für 60 Gold
 - [[Feywild Adventure.pdf]] https://www.dndbeyond.com/magic-items/4527176-box-of-fey-chocolates
+- gray bag of tricks, boar und giant badger sind raus (https://www.dndbeyond.com/magic-items/4582-bag-of-tricks)
 ### Art
 
 - Coole Schriftrolle  [[Twisting_Armory_scroll_free_transparent_01.png]]  

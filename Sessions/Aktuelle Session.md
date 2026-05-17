@@ -9,6 +9,7 @@
 - [x] Level Up?
 - [x] [[Downtime]]
 	- [x] [[Osigoa/Player Information/Bastion|Bastion]]
+- [ ] "Seid ihr bereit für kleine und große Abenteuer?"
 - [ ] Start in [[Druidentempel]] ([[Tempel des Lichts]]) Gefundene Hinweise: Anleitung Appenino (Altar 1), Losung Schrein (Altar 2), Losung Appenino (Sockel Appenino)
 	2-3 unter 2-2 einbauen? 
 	+Raum mit Pergament mit Appenino-Befehlen und Hinweis auf Natur der Elemente bei den ursprüngliche mit der Natur verknüpften Wesen (Drachen (Feuer), Eisriesen (Erde), Seeschlangen (Wasser), Djinni (Luft)?) 

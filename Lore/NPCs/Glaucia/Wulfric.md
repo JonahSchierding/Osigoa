@@ -18,6 +18,9 @@ AOEr [[Skinwalker]]? Eventuell Skinwalker als Grundlage aber mehr Spellcasting?
 ### Beschreibung
 > [!cite] Will man, dass etwas gut gemacht wird, mach es selbst!
 
+Aussehen: Schwarzer, geflochtener Bart, Großer Stab mit Kristall, mittelalt
+
+
 Denkt die eigentliche, balancierte Art wie die Welt zu sein hat, ist mit nur einer Plane  
 Zwergenmagier mit angespitzten Zähnen
 Verantwortlich für die Probleme in der Mine in [[Silbrheml]] (Experimente mit [[Planar - Sprache]]), ist dafür in [[Lufen Anglier]] Gebiet eingedrungen

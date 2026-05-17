@@ -14,6 +14,10 @@ Diverse Plüschtiere
 	- Eins gibt Unterwasser atmen? 
 Invisible Rope: 
 	- Invisible except to those touching it.
+Galadhors Armor s. [[Druidentempel]] Loot
+Horn of Blasting
+Frost Dagger 1d4 + 1d6 Frost damage, löscht nicht magische Flammen (Frost Brand Dagger)
+Fäulnisrose s. [[Druidentempel]] Loot
 
 #### Bücher
 Tagebuch aus [[Silberhemls religiöses Pentagon]] Thryms Bereich
