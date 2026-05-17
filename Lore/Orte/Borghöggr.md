@@ -17,8 +17,6 @@ Wird wegen [[Lufen Anglier]] von Drachen angegriffen
 Filiale am Hafen von [[The Pandemime Mannie]]
 
 ### NPCs
-
-[[Lufen Anglier]]
 **Bodo Mantego:** Stadtwache, hat die Balliste bedient
 **Beedle Pontoon:** Führt die Taverne, 1 Goldstück pro Nacht  
 [[The Pandemime Mannie]]

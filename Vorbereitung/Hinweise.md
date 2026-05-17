@@ -19,6 +19,9 @@
 ### [[Thrym]]
 Auf Verlierer Seite des [[Bürgerkrieg in Silberheml]]
 
+### [[Ritual der Wiederkehr]]
+Sie sind Teil einer uralten Prophezeiung
+[[Wulfric]] will Rituale durchführen
 
 # Hinweise
 siehe auch [[Gerüchte]]
@@ -28,6 +31,6 @@ siehe auch [[Gerüchte]]
 - [[König Leostans Bruder]] und viele Berater im [[Zirkel des Drachen]]
 - [[Zirkel des Drachen]] schreibt mit Geheimtinte
 - Bürgerkrieg vom [[Zirkel des Drachen]] zwar gewonnen aber von mutigen Helden wird der Tag gerettet
-- [[Thyrm]]s Anhänger haben Tempel in den [[Südliche Berge]]
+- [[Thrym]]s Anhänger haben Tempel in den [[Südliche Berge]]
 - Monde [[Aeterna Nova]] und [[Aeterna Vetus]]
 - 

@@ -16,10 +16,10 @@
 	- [ ] Struktur zusammenfassen 
 		- [ ] [[Aktuelle Session]]
 	- [ ] Assets zippen und auf Laptop schieben, git pull auf laptop
-	- [x] Kommunikation an Spieler per Whatsapp
-		- [x] Level Up  
-		- [x] Background Story (Fragen, Ergänzungen, Plot Points gerne auf mich zukommen)
-		- [x] Session  
+	- [ ] Kommunikation an Spieler per Whatsapp
+		- [ ] Level Up  
+		- [ ] Background Story (Fragen, Ergänzungen, Plot Points gerne auf mich zukommen)
+		- [ ] Session  
 	- [ ] Recap
 	- [ ] Level Up  
 	- [ ] Abenteuern  

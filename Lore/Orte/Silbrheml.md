@@ -36,3 +36,5 @@ Der magier [[Wulfric]] machte schabernack in der mine mit portals
 Grumpy Zwergen Vorarbeiter in der Mine: [[Namen lost to paywall]]
 [[The Pandemime Mannie]]
 [[Tavernenmitarbeiter]]
+
+![[Osigoa/Lore/NPCs/Silbrheml/Silbrheml|Silbrheml]]

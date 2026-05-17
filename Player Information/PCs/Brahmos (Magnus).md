@@ -7,7 +7,7 @@ Statblock: [[Brahmos (Magnus) CS.pdf]]
 ### Allgemein 
 > [!cite] Auserwählter des Wassers
 
-- [[Wulfric]] Schuld am Debakel an der südlichen Grenze von [[Osigoa/Lore/Orte/Glaucia|Glaucia]] bei Brahmos Kloster in den [[Südliche Berge]] ([[Helms Zuflucht]])
+- [[Wulfric]] Schuld am Debakel an der südlichen Grenze von [[Osigoa/Lore/Orte/Glaucia|Glaucia]] bei Brahmos Kloster in den [[Südliche Berge]] ([[Helms Zuflucht]]), hat erfahren dass [[Wulfric]] verantwortlich wegen Ritual durchführen dort
 - Ist einmal für über einen Monat in einer anderen [[Plane]] verschwunden und musste sich alleine durch die Hölle schlagen
 - [[Helm]] als Gott, Feiertag alle 4 Jahre (Schalttag)
 - Rechte Hand: [[Helga]], Brief an sie, um Wachen für [[Osigoa/Lore/Orte/Soda Springs|Soda Springs]] zu finden

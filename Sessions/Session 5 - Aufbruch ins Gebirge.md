@@ -27,7 +27,7 @@ Infiltration [[Zirkel des Drachen]] in [[Silberhemls religiöses Pentagon]]
 - Bettler mit Propheziung ("Der Drache wird kommen")
 Long Rest über Nacht
 Aufbruch in die Berge
-- Während der Nacht Geräusche während Rest (Spuren gefunden, die ungefähr HUmanoid Größe)
+- Während der Nacht Geräusche während Rest (Spuren gefunden, die ungefähr HUmanoid Größe) - das war [[Azrehneth]]
 Soda Springs
 - Gregor fängt ab
 - Verbingen Nacht dort und lassen sich von Gregor wegführen und kehren zurück
