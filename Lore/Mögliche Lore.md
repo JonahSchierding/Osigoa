@@ -34,7 +34,7 @@ Steuererhöhung
 Ritual um Lich zu werden ([[Der Drache]]), vor 500 Jahren oder jetzt? Zeit überdauert wegen Lich sein?
 Ritual um Planes zu mergen vor 500 Jahren? und jetzt wieder? Konjunktion als Name?
 [[Wulfric]] fuckt [[Brahmos (Magnus)]] Kloster
-[[Gongo (Chris)]] wird von [[Eisriesen]] großgezogen und ausgesetzt
+[[Gongolak (Chris)]] wird von [[Eisriesen]] großgezogen und ausgesetzt
 [[Fanny (Jule)]] Großmutter ist in einer Süßigkeiten/Back Plane
 
 

@@ -12,7 +12,7 @@ fc-end:
 [[Barkuldor (Vincent)]]
 [[Brahmos (Magnus)]]
 [[Fanny (Jule)]]
-[[Gongo (Chris)]]
+[[Gongolak (Chris)]]
 ### Datum
 29.11.2025
 ### Oneshot

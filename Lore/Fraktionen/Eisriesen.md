@@ -13,8 +13,8 @@ tags:
 ### Standort
 Im Gebirge im Norden
 ### Beschreibung
-[[Gongo (Chris)]] wurde von einem großgezogen  
+[[Gongolak (Chris)]] wurde von einem großgezogen  
 Machen Drachen verantwortlich für Inbalance  
 Verlieren Kräfte durch schwächere Planes
 ### Mitglieder
-[[Gongo (Chris)]] Adoptivvater
+[[Gongolak (Chris)]] Adoptivvater

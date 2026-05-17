@@ -10,7 +10,7 @@ fc-name: Session 1 - Aufbruch
 ### Teilnehmer
 [[(Rouven)]]
 [[Fanny (Jule)]]
-[[Gongo (Chris)]]
+[[Gongolak (Chris)]]
 ### Datum
 09.03.2025
 

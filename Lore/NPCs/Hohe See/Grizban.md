@@ -11,4 +11,4 @@ tags:
 - Loyal zu [[Captain Dwyn]]
 ### Beschreibung
 [[Stolen By The Sea v1.2.pdf]]
-Wurde von [[Gongo (Chris)]] Kochen beigebracht
+Wurde von [[Gongolak (Chris)]] Kochen beigebracht

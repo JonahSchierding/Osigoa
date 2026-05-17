@@ -10,7 +10,7 @@ fc-end:
 ### Teilnehmer
 [[Barkuldor (Vincent)]]
 [[Fanny (Jule)]]
-[[Gongo (Chris)]]
+[[Gongolak (Chris)]]
 ### Datum
 28.09.2025
 ### Oneshot

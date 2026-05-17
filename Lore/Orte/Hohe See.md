@@ -11,7 +11,7 @@ mapmarker: Region
 [[Vergängliches Hexagon]] bleibt gleich
 ### NPCs
 ![[Osigoa/Lore/NPCs/Hohe See/Hohe See]]
-Koch [[Grizban]] kann besser kochen, wegen [[Gongo (Chris)]] Lessons  
+Koch [[Grizban]] kann besser kochen, wegen [[Gongolak (Chris)]] Lessons  
 [[Captain Dwyn]] + Mannschaft sind in den [[Nebel]] gesegelt  
 
 

@@ -1,4 +1,4 @@
-Totems - [[(Rouven)]], [[Gongo (Chris)]], [[Fanny (Jule)]]
+Totems - [[(Rouven)]], [[Gongolak (Chris)]], [[Fanny (Jule)]]
 	- Totems detektieren ob etwas mit anderer Plane zu tun hat: bis jetzt, Mine (wegen Portal), [[The Pandemime Mannie]] wegen (Demon), Tiefling Kind (wegen Tiefling sind plane-Touch), eventuell  [[Captain Dwyn]] wegen Tiefling  
 	- Insgesamt gibt es 6 in der Welt, eins hat [[Der Drache]] 
 	- Symbol der Elemente leuchtet manchmal auf

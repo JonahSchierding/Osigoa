@@ -9,7 +9,7 @@ fc-name: Session 2 - Drachenangriff
 ---
 ### Teilnehmer
 [[Fanny (Jule)]]
-[[Gongo (Chris)]]
+[[Gongolak (Chris)]]
 [[Brahmos (Magnus)]]
 ### Datum
 03.05.2025

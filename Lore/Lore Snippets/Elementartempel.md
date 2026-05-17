@@ -1,4 +1,6 @@
 ### Elementar Tempel
+Für jede [[Elementarplane]] ein Tempel in [[Osigoa/Lore/Orte/Osigoa|Osigoa]]
+
 Erde - Unter [[Brahmos (Magnus)]] Kloster?
 Wasser - Geiler Unterwassertempel? Rückkehr [[Captain Dwyn]]?
 Feuer - [[Osigoa/Lore/Orte/Kaningr bzw Hágandr]]

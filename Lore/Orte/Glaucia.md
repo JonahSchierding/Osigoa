@@ -14,6 +14,6 @@ Eingeteilt in vier Bereiche:
 - Hauptstadt: [[König Leostan]]
 Momentan regiert von [[König Leostan]] und [[Osigoa/Lore/Fraktionen/Glaucia|Glaucia]]
 Nördliches Königreich von [[Osigoa/Lore/Orte/Osigoa|Osigoa]]
-Heimat unserer Helden: [[Brahmos (Magnus)]], [[Barkuldor (Vincent)]],[[Gongo (Chris)]], [[Fanny (Jule)]]
+Heimat unserer Helden: [[Brahmos (Magnus)]], [[Barkuldor (Vincent)]],[[Gongolak (Chris)]], [[Fanny (Jule)]]
 ### NPCs
 [[Osigoa/Lore/NPCs/Glaucia/Glaucia]]

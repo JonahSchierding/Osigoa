@@ -9,7 +9,7 @@ fc-name: Session 3 - Seereise und Minenabenteuer
 ---
 ### Teilnehmer
 [[Fanny (Jule)]]
-[[Gongo (Chris)]]
+[[Gongolak (Chris)]]
 [[Barkuldor (Vincent)]]
 [[Brahmos (Magnus)]]
 ### Datum
@@ -23,11 +23,11 @@ Orakel auf Insel (Gefährlich, Prüfung) -> Nur als [[Nebel]] beschrieben bis je
 **[[Lufen Anglier]]** schickt **[[Barkuldor (Vincent)]]** mit, um zu spionieren  
 [[Jenny]] nicht gerettet, [[Captain Dwyn]] geht mit Crew in den [[Nebel]], um sie zu retten  
 [[Brahmos (Magnus)]] hat Dragon Turtle Egg und Auftrag des [[König Leostan]] es zu überbringen (laut Auftrag des Königs soll es aber ein Drachenei sein)  
-[[Gongo (Chris)]] hat Koch [[Grizban]] als Freund  und bringt ihm kochen bei
+[[Gongolak (Chris)]] hat Koch [[Grizban]] als Freund  und bringt ihm kochen bei
 Deal mit Nixies, Bagpipe für Ei und Infos weil Kartenspiel (High X, in dem Fall 5) gewonnen wurde -> [[Vergängliches Hexagon]] bleibt gleich groß
 
 
-Adventurers sind in Silbrheml, angekommen per Schiff  
+Adventurers sind in [[Silbrheml]], angekommen per Schiff  
 [[The Pandemime Mannie]] in den Slums getroffen  
 Statue von Minengründer mit Spitzhacke auf Marktplatz mit Gebeten an Wand daneben  
 Mine hat 4 Ebenen  

@@ -9,7 +9,7 @@ fc-date: 1497-03-04
 ### Teilnehmer
 [[Fanny (Jule)]]
 [[Barkuldor (Vincent)]]
-[[Gongo (Chris)]]
+[[Gongolak (Chris)]]
 ### Datum
 09.08.2025
 ### Oneshot

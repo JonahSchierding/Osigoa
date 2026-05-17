@@ -15,7 +15,7 @@
 5. [[Osigoa/Lore/NPCs/Bastion/Bastion|Bastion]] leidet unter hohen Steuern 
 
 
-![[Gongo (Chris)#Gongo (Chris) Plot Hooks]]
+![[Gongolak (Chris)#Gongo (Chris) Plot Hooks]]
 ![[Fanny (Jule)#Fanny (Jule) Plot Hooks]]
 ![[Brahmos (Magnus)#Brahmos (Magnus) Plot Hooks]]
 ![[Barkuldor (Vincent)#Barkuldor (Vincent) Plot Hooks]]
