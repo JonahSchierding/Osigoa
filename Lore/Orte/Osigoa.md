@@ -7,9 +7,11 @@ tags:
 ### NPCs
 ![[Osigoa/Lore/NPCs/Glaucia/Osigoa]]
 ### **Allgemeines über den Kontinent
+Liegt in der Welt [[Wiederkehrende Weiten]] in der Materialplane
+
  Nördliches Königreich: [[Osigoa/Lore/Orte/Glaucia||Glaucia]] regiert von [[Osigoa/Lore/Fraktionen/Glaucia|Glaucia]]
 Südliches Reich:  [[Skoybar]] regiert von [[Osigoa/Lore/Fraktionen/Skoybar|Skoybar]]
-Welt  hat einen nur (gleichnamigen) Kontinent mit nur zwei Reiche
+Kontinent mit nur zwei Reiche
 [[Osigoa/Lore/Maps]]
  
 

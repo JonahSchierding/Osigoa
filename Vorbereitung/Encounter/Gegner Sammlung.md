@@ -63,3 +63,5 @@ Jäger s. Zusammenfassung unten CR2 bzw. CR4
 
 
 ![[Gegner]]
+![[Assets/Gegner/Drachen/Drachen|Drachen]]
+Drachen CR 7-11

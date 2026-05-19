@@ -1,0 +1,1 @@
+Werden in ländlichen Regionen teilweise als Art Bank benutzt, weil sie selbst mächtig sind aber kein großes Interesse an weltlichem Reichtum haben, fordern oft dafür einen Teil den sie für die Natur benutzen oder direkt einen positiven Einfluss auf die Natur (z. B. Bäume pflanzen).

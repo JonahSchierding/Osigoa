@@ -5,7 +5,7 @@ tags:
   - NPC
 ---
 ### Statblock 
-[[The Burning of Fairward Falls.pdf]] oder [[Adult Red Dragon]]
+[[The Burning of Fairward Falls.pdf]] oder [[Adult Red Dragon]] oder [[Assets/Gegner/Drachen/Drachen|Drachen]]
 ### Standort
 Straße/Wildnis nördlich von [[Osigoa/Lore/Orte/Silbrheml|Silbrheml]]
 ### Ziele

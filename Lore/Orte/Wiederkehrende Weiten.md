@@ -5,8 +5,9 @@ tags:
 ---
 ### Beschreibung
 Welt in der unsere tapferen Abenteuerer ihre Abenteuer erleben.
-In der Material Plane liegt der Kontinent [[Osigoa/Lore/Orte/Osigoa||Osigoa]]. Die Material Plane wird von den beiden Monden [[Aeterna Nova]] und [[Aeterna Vetus]] umkreist.
+Liegt In der Material Plane 
+Relevant momentan der Kontinent [[Osigoa/Lore/Orte/Osigoa||Osigoa]]. Wird von den beiden Monden [[Aeterna Nova]] und [[Aeterna Vetus]] umkreist.
 
 [[Plane]] beschreibt wie die Existenzebenen in den [[Wiederkehrende Weiten]] funktionieren.
 ### NPCs
-[[Osigoa/Lore/NPCs/{{title}}/{{title}}]]
+![[Osigoa/Lore/NPCs/Wiederkehrende Weiten/Wiederkehrende Weiten]]
