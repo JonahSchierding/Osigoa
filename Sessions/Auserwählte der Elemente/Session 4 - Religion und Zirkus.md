@@ -27,9 +27,9 @@ Waren im Zirkus
 Spiele gemacht, Lil Lightnin Bolt bekommen, DC Con geht immer eins hoch bei Usage [[Assets/Items/Items]]
 Monster ([[Schattenwesen]]) besiegt und alle gerettet  
 Morty Viper haut ab/wird gehen gelassen  
-Schiff wird von PCs übernommen ->   [[Osigoa/Player Information/PCs/Auserwählte der Elemente/Bastion]]
+Schiff wird von PCs übernommen ->   [[Bastion Mainau]]
 [[Don Cheesy]] wird nicht an Behörden ausgeliefert obwohl er im [[Zirkel des Drachen]] ist
-Soll alles managen für [[Osigoa/Player Information/PCs/Auserwählte der Elemente/Bastion]]
+Soll alles managen für [[Bastion Mainau]]
 Hat Infos gegeben
 ### Orte
 [[Silbrheml]]

@@ -13,6 +13,8 @@ Trägt seit dem Bürgerkrieg die 5-zackige Krone von [[Maximilian Theodor Ignati
 ### Persönlichkeit
 [[Samson (Magnus)]] Mutter
 Verwalterin des Lehens, kümmert sich um die meisten offiziellen Angelegenheiten, regiert jedoch mit absoluter Härte (Steuern werden eingetrieben, egal wie die Ernte war etc). Sie weiß [[Samson (Magnus)]]  Wissen und seine Fähigkeiten zu schätzen, würde sich aber wünschen er würde den Familiennamen durch diese Außergewöhnlichen Tätigkeiten nicht so durch den Dreck ziehen. [[Azuth]] ist ein Dorn im Auge, weil auf Körperliches kann sich mehr verlassen, als auf Magie setzen. 
+
+Kann nicht gut lesen
 ### Titel
 Thea Margarete Ignatius, die erste ihres Namens, Mutter von [[Gabriel Henri Ignatius II]], [[Samson (Magnus)]] und [[Frida Luise Ignatius V]], Baronin von [[Tethos]], Wächterin des Geldes, Beschützerin der [[Tethosburg]] und das Rückgrat der [[Ignatius Familie]]
 ### Standort

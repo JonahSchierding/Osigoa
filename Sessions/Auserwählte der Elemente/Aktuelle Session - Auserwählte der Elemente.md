@@ -11,7 +11,7 @@
 - [ ] "Seid ihr bereit für kleine und große Abenteuer?"
 
 - [ ] [[Downtime]]
-	- [ ] [[Osigoa/Player Information/PCs/Auserwählte der Elemente/Bastion|Bastion]]
+	- [ ] [[Bastion Mainau|Bastion Mainau]]
 - [ ] Random Wegencounter? [[Encounter Bausteine.canvas|Encounter Bausteine]]
 - [ ] Weg nach Süden treffen auf [[Azrehneth]]
 - [ ]  Richtung Norden (Drachen, Riesen, Konsequenzen von [[Wulfric]]s Treiben ), siehe auch [[Ritual der Wiederkehr]] ->  [[Berge]]

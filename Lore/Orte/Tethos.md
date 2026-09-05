@@ -9,6 +9,7 @@ mapmarker:
 > [!quote] Mit vier Beinen voran
 ### Wappen
 ![[WappenMagnus.png|300]]
+Grün ist Farbe der Baronie
 
 ### Beschreibung
 Kleine Baronie im Südwesten von [[Osigoa/Lore/Orte/Glaucia|Glaucia]] 

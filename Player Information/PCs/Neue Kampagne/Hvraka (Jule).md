@@ -7,7 +7,7 @@ Statblock: [[Hvraka (Jule)]]
 
 ### Allgemein
 ##### Name
-Hvraka (sprich: Wraka) „die Wortlose“ Steinbrecher
+Hvraka (sprich: Wraka) Eisenstein
 > [!quote] Ich diene unserer Baronie mit meinem Leben. Nur der Schutz des Barons und seiner Familie könnte ein Grund sein, die Baronie überhaupt zu verlassen.
 
 Mensch, Leibwächterin von [[Samson (Magnus)]]

@@ -7,7 +7,7 @@ tags:
 ### Statblock 
 [[Morty Viper's Sinking Circus - DnD Shorts Adventures-compressed (2) (1).pdf]]
 ### Standort
-[[Osigoa/Player Information/PCs/Auserwählte der Elemente/Bastion]]
+[[Bastion Mainau]]
 ### Ziele
 //TODO
 ### Beschreibung
