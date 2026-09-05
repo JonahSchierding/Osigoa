@@ -3,7 +3,7 @@
 - Neue Fähigkeit lernen ([[Kontrolliertes Risiko]])
 - Items/Waffen verbessern/reparieren
 - [[Osigoa/Lore/NPCs/Bastion/Bastion|Bastion]]
-- Informationen sammeln ([[Hinweise]], [[Gerüchte]])
+- Informationen sammeln ([[Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Hinweise]], [[Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Gerüchte]])
 	- Gegenstände untersuchen
 - Zauber oder Klassenaktionen wechseln
 

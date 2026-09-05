@@ -1,7 +1,7 @@
 ## Themes:  
 Ordnung vs Unordnung  
 Evtl. wie sollte Gesellschaft organisiert sein?  
-Themes Themes sein lassen? Oder nur auf einzelne Aspekte/Fraktionen/Charaktere anwenden?
+Themes Themes sein lassen? Oder nur auf einzelne Aspekte/Faktionen/Charaktere anwenden?
  
 Nomaden sind glücklicher? Zivilistation als Fehler? Weil Menschen mit Macht nicht umgehen können  
 Mehr Gerechtigkeit und weniger Krieg ohne Zivilisation, Könige, etc

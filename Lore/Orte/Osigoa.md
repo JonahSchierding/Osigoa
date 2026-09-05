@@ -7,13 +7,12 @@ tags:
 ### NPCs
 ![[Osigoa/Lore/NPCs/Glaucia/Osigoa]]
 ### **Allgemeines über den Kontinent
-Liegt in der Welt [[Wiederkehrende Weiten]] in der Materialplane
+Liegt in der Welt [[Wiederkehrende Weiten]] in der [[Materialplane]]
 
- Nördliches Königreich: [[Osigoa/Lore/Orte/Glaucia||Glaucia]] regiert von [[Osigoa/Lore/Fraktionen/Glaucia|Glaucia]]
-Südliches Reich:  [[Skoybar]] regiert von [[Osigoa/Lore/Fraktionen/Skoybar|Skoybar]]
+ Nördlichestes Königreich: [[Osigoa/Lore/Orte/Glaucia||Glaucia]] regiert von [[Osigoa/Lore/Faktionen/Glaucia|Glaucia]]
+Südlich davon Reich:  [[Osigoa/Lore/Orte/Skoybar]] regiert von [[Osigoa/Lore/Faktionen/Skoybar|Skoybar]]
 Kontinent mit nur zwei Reiche
 [[Osigoa/Lore/Maps]]
- 
 
  
 ### **Schöpfungsmythen:**  
@@ -26,13 +25,13 @@ Höchster Wert gewinnt, Ausnahme Binokel gewinnt immer
 In unterschiedlichen Regionen von 2 bis 10 Karten, doppeltes oder einfaches Deck
 
 ### Konflikte
-1.  [[Drachen]] vs. [[Eisriesen]]
-2. [[Osigoa/Lore/Fraktionen/Glaucia]] vs. [[Skoybar]]
+1.  [[Assets/Gegner/Drachen/Drachen]] vs. [[Eisriesen]]
+2. [[Osigoa/Lore/Faktionen/Glaucia]] vs. [[Osigoa/Lore/Orte/Skoybar]]
 	Krieg in kalter Phase, wird heiß
 3. [[Zirkel des Drachen]] vs. Planes
    
-### Fraktionen
-![[Fraktionen]]
+### Faktionen
+![[Faktionen]]
 ### NPCs
 ![[NPCs.base]]
 ### Orte

@@ -8,4 +8,4 @@ mapmarker:
 ---
 ### Beschreibung
 ### NPCs
-[[Osigoa/Lore/NPCs/{{title}}/{{title}}]]
+![[Osigoa/Lore/NPCs/{{title}}/{{title}}]]

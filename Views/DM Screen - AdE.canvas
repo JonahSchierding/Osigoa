@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"bac0de4f2c0aea21","type":"file","file":"Osigoa/Sessions/Auserwählte der Elemente/Aktuelle Session - Auserwählte der Elemente.md","x":-580,"y":-940,"width":500,"height":500},
+		{"id":"2c161082fe6fe7f8","type":"file","file":"Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Hinweise.md","x":-580,"y":-1700,"width":500,"height":720},
+		{"id":"95d8a459632c2b7b","type":"file","file":"Osigoa/Lore/Faktionen/Faktionen.md","x":-1200,"y":-400,"width":240,"height":380},
+		{"id":"40db5fb80256dace","type":"file","file":"Osigoa/Lore/Orte/Orte.md","x":-940,"y":-400,"width":240,"height":860},
+		{"id":"d6ab484a63d7d5f9","type":"text","text":"# Platzhalter Session","x":-60,"y":-920,"width":740,"height":480,"color":"3"},
+		{"id":"d7377ae6c46ff0c5","type":"file","file":"Osigoa/Vorbereitung/Encounter/Kämpfe.md","x":-1200,"y":-940,"width":600,"height":500},
+		{"id":"ffc4cae4fb388329","type":"file","file":"Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Gerüchte.md","x":-60,"y":-1700,"width":430,"height":720},
+		{"id":"85454d79474e7aed","type":"file","file":"Osigoa/OwnAssets/Maps/Map Glaucia.md","x":-1200,"y":-1700,"width":540,"height":540},
+		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n[[Session 7 - Die Auserwählten]]","x":390,"y":-1120,"width":290,"height":140},
+		{"id":"30ca3a1e37575616","type":"file","file":"Osigoa/Sessions/Auserwählte der Elemente/Auserwählte der Elemente.md","x":-660,"y":-360,"width":300,"height":400},
+		{"id":"f20b85f0a9354faa","type":"file","file":"Osigoa/Player Information/PCs/Auserwählte der Elemente/Auserwählte der Elemente.md","x":-330,"y":-340,"width":530,"height":420},
+		{"id":"a4e2324e501d2e1e","type":"file","file":"Osigoa/Views/NPCs.base","x":280,"y":-360,"width":400,"height":520},
+		{"id":"414f55fd2fd68b6d","type":"file","file":"Osigoa/Sessions/Auserwählte der Elemente/Session 8.md","x":-60,"y":-920,"width":740,"height":480},
+		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n### Nachbereitung\n","x":390,"y":-1700,"width":290,"height":540},
+		{"id":"d58b1d7be9b2f0bc","type":"text","text":"### INSPIRATION!","x":-1225,"y":-1120,"width":290,"height":110}
+	],
+	"edges":[]
+}

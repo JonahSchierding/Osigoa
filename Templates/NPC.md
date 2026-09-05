@@ -1,11 +1,14 @@
 ---
 Type: NPC
-Fraktion:
+Faktion:
 tags:
   - Template
   - NPC
 ---
 ### Statblock 
+### Aussehen
+### Persönlichkeit
+Good Tag, Ugly Tag, Bad Tag?
 ### Standort
 ### Ziele
-### Beschreibung
+### Geheimnisse

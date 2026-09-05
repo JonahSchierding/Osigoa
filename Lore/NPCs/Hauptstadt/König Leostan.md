@@ -1,6 +1,6 @@
 ---
 Type: NPC
-Fraktion: Glaucia
+Faktion: Glaucia
 tags:
   - NPC
 ---

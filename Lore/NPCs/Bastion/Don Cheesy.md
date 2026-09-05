@@ -1,13 +1,13 @@
 ---
 Type: NPC
-Fraktion: Zirkel des Drachen
+Faktion: Zirkel des Drachen
 tags:
   - NPC
 ---
 ### Statblock 
 [[Morty Viper's Sinking Circus - DnD Shorts Adventures-compressed (2) (1).pdf]]
 ### Standort
-[[Osigoa/Player Information/Bastion]]
+[[Osigoa/Player Information/PCs/Auserwählte der Elemente/Bastion]]
 ### Ziele
 //TODO
 ### Beschreibung

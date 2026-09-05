@@ -1,6 +1,6 @@
 ---
 Type: NPC
-Fraktion: Mannie
+Faktion: Mannie
 tags:
   - NPC
 ---

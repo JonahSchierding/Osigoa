@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"95d8a459632c2b7b","type":"file","file":"Osigoa/Lore/Faktionen/Faktionen.md","x":-1200,"y":-400,"width":240,"height":380},
+		{"id":"40db5fb80256dace","type":"file","file":"Osigoa/Lore/Orte/Orte.md","x":-940,"y":-400,"width":240,"height":860},
+		{"id":"d6ab484a63d7d5f9","type":"text","text":"# Platzhalter Session","x":-60,"y":-920,"width":740,"height":480,"color":"3"},
+		{"id":"d7377ae6c46ff0c5","type":"file","file":"Osigoa/Vorbereitung/Encounter/Kämpfe.md","x":-1200,"y":-940,"width":600,"height":500},
+		{"id":"85454d79474e7aed","type":"file","file":"Osigoa/OwnAssets/Maps/Map Glaucia.md","x":-1200,"y":-1700,"width":420,"height":570},
+		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n","x":390,"y":-1120,"width":290,"height":140},
+		{"id":"db53eaaf830711eb","type":"file","file":"Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Hinweise.md","x":-600,"y":-1680,"width":520,"height":660},
+		{"id":"29bd62344f6a0a3e","type":"file","file":"Osigoa/Sessions/Neue Kampagne/Neue Kampagne.md","x":-660,"y":-380,"width":280,"height":400},
+		{"id":"040f2b673c4805f1","type":"file","file":"Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Gerüchte.md","x":-80,"y":-1680,"width":470,"height":660},
+		{"id":"5a87840d19bfc92a","type":"file","file":"Osigoa/Sessions/Neue Kampagne/Aktuelle Session - Neue Kampagne.md","x":-560,"y":-920,"width":480,"height":458},
+		{"id":"591a5f3841c45edc","type":"file","file":"Osigoa/Sessions/Neue Kampagne/Session 1.md","x":-60,"y":-920,"width":740,"height":480},
+		{"id":"a4e2324e501d2e1e","type":"file","file":"Osigoa/Views/NPCs.base","x":280,"y":-380,"width":400,"height":520},
+		{"id":"6701978d8ca96d4d","type":"file","file":"Osigoa/Player Information/PCs/Neue Kampagne/Neue Kampagne.md","x":-340,"y":-380,"width":580,"height":400},
+		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n### Nachbereitung\n","x":390,"y":-1700,"width":290,"height":525},
+		{"id":"2e4966a96466843f","type":"file","file":"Assets/Sonstiges/ASSASSIN - booklet (1).pdf","x":-1640,"y":-1350,"width":400,"height":400},
+		{"id":"ce8d33d9eee8be0d","x":-1150,"y":-1080,"width":330,"height":100,"type":"text","text":"### INSPIRATION!"}
+	],
+	"edges":[]
+}

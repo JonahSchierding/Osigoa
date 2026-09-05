@@ -7,7 +7,7 @@ mapmarker: Region
 ---
 ### Beschreibung
 Südliches Königreich von [[Osigoa/Lore/Orte/Osigoa|Osigoa]]
-Regiert von [[Osigoa/Lore/Fraktionen/Skoybar|Skoybar]]
+Regiert von [[Osigoa/Lore/Faktionen/Skoybar|Skoybar]]
 
 Slur: Skoiba
 ### NPCs

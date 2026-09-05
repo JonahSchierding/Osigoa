@@ -10,7 +10,7 @@ mapmarker: Sehenswürdigkeit
 ---
 ### Beschreibung
 Höchster Berg des [[Gebirge des ewigen Schnees]] 
-Heimat vieler [[Drachen]]
+Heimat vieler [[Assets/Gegner/Drachen/Drachen]]
 [[Eisbeeren]] können hier gefunden werden, aber was halten die Drachen davon?
 ### NPCs
 [[Osigoa/Lore/NPCs/Eisgipfel/Eisgipfel]]

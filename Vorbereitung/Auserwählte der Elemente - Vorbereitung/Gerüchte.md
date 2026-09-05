@@ -1,0 +1,18 @@
+# Gehörte Gerüchte
+- Menschen verschwinden
+- König will mehr Steuern
+- Seltsame Wesen im Gebirge (Wendigo, Chuca, Skinchanger (Hexerzirkel)) 
+- Einzelnes Dorf im [[Gebirge des ewigen Schnees]] (Trevor Canyon und Hungry Mutts merged s. [[Soda Springs]])
+- [[Gongolak (Chris)]] träumt von Eisriesen in Ketten
+- Schöpfungsmythos: Aus einer Pflanze werden viele auf Lichtung in Duschungel PLane (Traum [[Brahmos (Magnus)]])
+# Gerüchte
+siehe auch [[Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Hinweise]]
+- Menschen verschwinden und tauchen später wieder auf (verschwinden schon erfahren)
+- Schattenmonster tauchen auf 
+- Geheimes Projekt in der Wüste (Golemproduktion) [[Zirkel des Drachen]] dahinter?
+- Richtung [[Gebirge des ewigen Schnees]]: Drachensichtung und/oder [[Eisriesen]]-Spuren, besonders zwischen [[Eisgipfel]] und [[Das dunkle Tal]]
+- Seltsame Wesen im Gebirge (Wendigo, Chuca, Skinchanger (Hexerzirkel))(teasered)
+- König will mehr Steuern
+- Unterirdischer Tempel im Gebirge (verbindung mit NPC?)
+- Drachen im Gebirge
+- Drachen haben [[Gongolak (Chris)]] Eisriesen-Papa als Geisel?

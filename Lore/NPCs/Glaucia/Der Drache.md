@@ -1,6 +1,6 @@
 ---
 Type: NPC
-Fraktion: Zirkel des Drachen
+Faktion: Zirkel des Drachen
 tags:
   - NPC
 ---

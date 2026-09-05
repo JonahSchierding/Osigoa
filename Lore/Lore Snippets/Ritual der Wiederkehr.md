@@ -1,5 +1,5 @@
 Ritual das alle 500 Jahre von Auserwählten der [[Elementartempel|Elemente]] durchgeführt wird
-Die Auserwählten sind eigentlich 6 rechtschaffene Helden, die über das Schicksal der Welt entscheiden und 4 der Helden (Mehrheit) müssen mit den Totems (s. [[Items]]) in einem Zirkel stehen müssen, um das Ritual durchzuführen
+Die Auserwählten sind eigentlich 6 rechtschaffene Helden, die über das Schicksal der Welt entscheiden und 4 der Helden (Mehrheit) müssen mit den Totems (s. [[Assets/Items/Items]]) in einem Zirkel stehen müssen, um das Ritual durchzuführen
 
 Auserwählte werden von [[Primordial]] der Elemente gewählt (Diese sind auf weitermachen angewiesen, sonst werden sie mit zerstört)
 

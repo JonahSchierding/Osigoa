@@ -34,7 +34,7 @@ geojson: MapSnippets/Norden.json|Norden|[[Osigoa/Lore/Orte/Glaucia#Beschreibung|
 
 ```
 
-Wüste unter [[Osigoa/Lore/Orte/Gebirge des ewigen Schnees|Gebirge des ewigen Schnees]]
+[[Die sandige Steppe]] unter [[Osigoa/Lore/Orte/Gebirge des ewigen Schnees|Gebirge des ewigen Schnees]], zieht sich bis zu den [[Südliche Berge]] und begrenzt Glaucia nach Westen
 Elementartempel neben [[Osigoa/Lore/Orte/Kaningr bzw Hágandr|Kaningr bzw Hágandr]]
 Inseln in [[Osigoa/Lore/Orte/Hohe See|Hohe See]] 
 [[Osigoa/Lore/Orte/Hauptstadt|Hauptstadt]] platzieren

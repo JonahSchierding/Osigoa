@@ -1,0 +1,20 @@
+---
+Type: Faktion
+tags:
+  - Ugly
+  - Faktion
+---
+
+
+### Ziele
+- Elementar Ebenen wieder kräftigen
+### Braucht dafür
+- Drachen zum Handeln bringen
+### Standort
+Im Gebirge im Norden
+### Beschreibung
+[[Gongolak (Chris)]] wurde von einem großgezogen  
+Machen Drachen verantwortlich für Inbalance  
+Verlieren Kräfte durch schwächere Planes
+### Mitglieder
+[[Gongolak (Chris)]] Adoptivvater

@@ -5,6 +5,6 @@ tags: MOCs
 ```
 [[NPCs]]
 [[Orte]]
-[[Fraktionen]]
+[[Faktionen]]
 [[Historische Events]]
 [[Lore Snippets]]

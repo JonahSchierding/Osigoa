@@ -1,6 +1,6 @@
 ---
 Type: NPC
-Fraktion: Player-favored
+Faktion: Player-favored
 tags:
   - NPC
 ---

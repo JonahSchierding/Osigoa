@@ -1,6 +1,6 @@
 ---
 Type: NPC
-Fraktion:
+Faktion:
 tags:
   - NPC
 ---

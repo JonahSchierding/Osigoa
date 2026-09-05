@@ -1,6 +1,6 @@
 ---
 Type: NPC
-Fraktion: Drachen
+Faktion: Drachen
 tags:
   - NPC
 ---
