@@ -14,7 +14,8 @@ Beschützt [[Gabriel Henri Ignatius II]], wird von [[Hvraka (Jule)]] als unfair 
 ### Standort
 [[Osigoa/Lore/Orte/Ignage|Ignage]]
 ### Ziele
-Der [[Ignatius Familie]] dienen
+Der [[Ignatius Familie]] dienen?
+Stark werden
 
 ### Geheimnisse
-Ist nach einem Trainingsunfall ständig Schmerzen ausgesetzt und sucht Heilung
+Ist nach einem Trainingsunfall ständig Schmerzen ausgesetzt und sucht Heilung, ist schwierig für ihn den Sinn weiter zu sehen

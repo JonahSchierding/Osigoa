@@ -1,7 +1,6 @@
 Neue Kampagne
-- [ ] 2 Assassin Missions für jeden
-- [ ] Schriftrolle mit Titeln von [[Samson (Magnus)]] für Jule
-- [ ] Schriftrolle mit [[Samson (Magnus)]] Pakt für Roleplay
+
+
 
 
 - [ ] Vorbereitung  
@@ -37,7 +36,7 @@ Neue Kampagne
 		- [x] Session
 
 - [ ] In-Session
-	- [x] Recap
+	- [ ] Recap/Opening Dialog
 	- [x] Level Up  
 	- [ ] Abenteuern  
 		- [ ] [[DM Screen - AdE.canvas||AdE]]

@@ -10,6 +10,10 @@
 
 - [ ] "Schön dass ihr mit mir spielt. Habt ihr Lust ins Abenteuer reinzustarten?"
 
+Die Sonne geht auf in [[Tethos]], der kleinen Baronie, die von der [[Ignatius Familie]] beherrscht wird und der wunderschöne orangebraune Herbstmorgen steht in starkem Kontrast zu den dramatischen Ereignissen der letzten Wochen und Monate. [[Gabriel Henri Ignatius II]] ist dem Ruf [[König Leostan]]s gefolgt und hat mit seiner Mutter [[Thea Margarete Ignatius I]] den Großteil des Militärs in den Bürgerkrieg gegen den [[Zirkel des Drachen]] geführt. Er kam nur mit einem Bruchteil der Streitkräfte , aber mit einem riesigen Selbstbewusstsein, nach dem Sieg zurück, um die Regierungsgeschäfte wieder mit seiner Mutter zu übernehmen.
+
+In [[Osigoa/Lore/NPCs/Ignage/Ignage|Ignage]] der Hauptstadt von [[Tethos]] haben sich während der Abwesenheit die Ereignisse derweil überschlagen. [[Samson (Magnus)]] musste mit seiner Schwester [[Frida Luise Ignatius V]] und seiner Leibwache [[Hvraka (Jule)]] die Verantwortung zuhause übernehmen, da sein Vater nicht dazu im Stande war. Doch die Bevölkerung wurde angesichts der Versorgungsengpässe, Banditenüberfällen und anderen alltäglichen Problemen sehr unzufrieden bis schlussendlich ein wütender Mob vor der [[Tethosburg]] stand. [[Samson (Magnus)]] konnte die Revolution und den Sturm der Burg verhindern, doch um welchen Preis?
+
 - [ ] [[Downtime]]
 	- [x] [[Osigoa/Player Information/PCs/Auserwählte der Elemente/Bastion|Bastion]]
 - [ ] Random Wegencounter? [[Encounter Bausteine.canvas|Encounter Bausteine]]
