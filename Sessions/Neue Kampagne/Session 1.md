@@ -27,7 +27,7 @@ Ein Bandit noch eine Woche im Kerker, von [[Samson (Magnus)]] begnadigt
 
 
 Reingestartet in [[Orchid Heist]] 
-- Mitten im Heist, sie haben Staff key aber kein Passage Gem, Wache oben ist grade im Prep-Lab, läuft gegen den Uhrzeigersinn, Oben im Staff-only Area vor der Plant Healing Area, Nathaniels Journal gefunden (Destiny ist Hag, Nathaniel ist gefangen,  kleiner Mitarbeiteraufzug führt in den Keller mit Passage Gem), Destiny ist unten in der Lobby, Wachen haben Passage Gem an der Brust
+- Mitten im Heist, sie haben Staff key aber kein Passage Gem, Wache oben ist grade im Prep-Lab, läuft gegen den Uhrzeigersinn, Oben im Staff-only Area vor der Plant Healing Area, Nathaniels Journal gefunden und mitgenommen (Destiny ist Hag, Nathaniel ist gefangen,  kleiner Mitarbeiteraufzug führt in den Keller mit Passage Gem), Destiny ist unten in der Lobby, Wachen haben Passage Gem an der Brust
 
 
 ### Orte

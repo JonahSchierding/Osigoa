@@ -19,8 +19,12 @@
 - [ ] [[Hvraka (Jule)]] wird angesprochen, ob sie nicht die Leibwache von [[Samson (Magnus)]] ist, jemand braucht Hilfe
 
 - [ ] Heist: [[Orchid Heist]]? Gerüchte dass Hofdamen und Männer immer schöner werden, Treffen mit Sprites? [[Samson (Magnus)]] hat den Ruf alles zu tun wenn er es für richtig hält und das Standing in Destinys Party reinzukommen?
+
+- [ ] [[Destiny]] arbeitet für [[Ignatius Familie]], nur [[Thea Margarete Ignatius I]] und [[Gabriel Henri Ignatius II]] wissen davon, soll Bürger und Hofstaat gegeneinander ausspielen/mit ihrem Aussehen beschäftigen, um Stand der Familie zu stärken, darf dafür ihr Geschäft betreiben
 - [ ] Probleme im [[Holkastuhl]] und dem stinkendem [[Silberlauf]] (s. DM Guide S. 123)
-- [ ] Mord in der [[Schrein des ersten Magisters]]? [[Murder Mystery]]
+- [ ] Im  [[Osigoa/Lore/Orte/Schrein des ersten Magisters|Schrein des ersten Magisters]] (Treffen mit [[Glamora Etheri]], [[Elduin Ulabalar]]) wurde der Magister [[Ivelius Ehone]] getötet und ein wertvolles Artefakt entwendet, [[Malagard]] ist interessiert und beauftragt mehr rauszufinden, welches Artefakt das war, momentan überall noch Mönche, vllt später mehr dazurausfinden, wenn weniger Trubel ist?
+- [ ] [[Elduin Ulabalar]] will das Artefakt zurück, eventuell Bodygard Mission nach [[Holkastuhl]] bzw. [[Karat]], um dort mehr zu erfahren?
+- [ ] [[Elduin Ulabalar]] und [[Gabriel Henri Ignatius II]] wollen zusammen ein Turnier (siehe Pointy Hat Video) veranstalten mit 2er Teams (Kämpfer + Magier), um ihre Verbundenheit zu zeigen, alle dürfen teilnehmen, Belohnung: [[Elduin Ulabalar]] bietet einen Gefallen und [[Gabriel Henri Ignatius II]] bietet 250 Goldstücke (16 Teams?)
 
 - [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]]
 - [ ] Loot ([[Item Sammlung]])
@@ -31,4 +35,4 @@
 
 - Während dem Krieg hat die Baronie [[Tethos]] gelitten, es gibt Probleme im [[Holkastuhl]] und mit dem [[Silberlauf]], verschiedene Faktionen sind unzufrieden
 - [[Malagard]] verfolgt eigene Ziele, will einen magischen Gegenstand von [[Azuth]]s Tempel in [[Schrein des ersten Magisters]], Mystery designen?
-- [[Hvraka (Jule)]] muss [[Anke]] fertig zähmen, später will jemand [[Anke]] entführen?
+- [[Hvraka (Jule)]] muss [[Anke]] fertig zähmen, später will jemand [[Anke]] entführen bzw. das verhindern?

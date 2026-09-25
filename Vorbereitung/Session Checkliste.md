@@ -1,8 +1,6 @@
 Neue Kampagne
 
 
-
-
 - [ ] Vorbereitung  
 	- [ ] https://donjon.bin.sh/
 	- [x] Oneshot suchen  

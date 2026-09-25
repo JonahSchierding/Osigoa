@@ -19,3 +19,4 @@ Will [[Azuth]] als Erzmagier seines Tempels dienen und möglichst viel Magisches
 ### Geheimnisse
 - Die Nymphe im Wasserbecken im [[Osigoa/Lore/Orte/Schrein des ersten Magisters|Schrein des ersten Magisters]]
 - Mehrere Raubzüge, um an magische Gegenstände zu gelangen
+- Anhänger [[Azuth]]s Sorgen dafür, dass Vulkan nicht ausbricht
