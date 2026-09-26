@@ -1,7 +1,6 @@
 ---
 Type: Session
 tags:
-  - Template
   - Session
 fc-calendar: Wiederkehrende Weiten
 fc-category: Session

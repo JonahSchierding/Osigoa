@@ -20,7 +20,8 @@
 
 - [ ] Heist: [[Orchid Heist]]? Gerüchte dass Hofdamen und Männer immer schöner werden, Treffen mit Sprites? [[Samson (Magnus)]] hat den Ruf alles zu tun wenn er es für richtig hält und das Standing in Destinys Party reinzukommen?
 
-- [ ] [[Destiny]] arbeitet für [[Ignatius Familie]], nur [[Thea Margarete Ignatius I]] und [[Gabriel Henri Ignatius II]] wissen davon, soll Bürger und Hofstaat gegeneinander ausspielen/mit ihrem Aussehen beschäftigen, um Stand der Familie zu stärken, darf dafür ihr Geschäft betreiben
+- [ ] [[Destiny]] arbeitet für [[Ignatius Familie]], nur [[Thea Margarete Ignatius I]] und [[Gabriel Henri Ignatius II]] und andere Ratsmitglieder ([[Zaju Eisenstein]], [[Morgan Gnash]] Orkfrau, Magierin Azuth) wissen davon, soll Bürger und Hofstaat gegeneinander ausspielen/mit ihrem Aussehen beschäftigen, um Stand der Familie zu stärken, darf dafür ihr Geschäft betreiben
+- [ ] Rat tagt im höchsten Turm ganz oben
 - [ ] Probleme im [[Holkastuhl]] und dem stinkendem [[Silberlauf]] (s. DM Guide S. 123)
 - [ ] Im  [[Osigoa/Lore/Orte/Schrein des ersten Magisters|Schrein des ersten Magisters]] (Treffen mit [[Glamora Etheri]], [[Elduin Ulabalar]]) wurde der Magister [[Ivelius Ehone]] getötet und ein wertvolles Artefakt entwendet, [[Malagard]] ist interessiert und beauftragt mehr rauszufinden, welches Artefakt das war, momentan überall noch Mönche, vllt später mehr dazurausfinden, wenn weniger Trubel ist?
 - [ ] [[Elduin Ulabalar]] will das Artefakt zurück, eventuell Bodygard Mission nach [[Holkastuhl]] bzw. [[Karat]], um dort mehr zu erfahren?

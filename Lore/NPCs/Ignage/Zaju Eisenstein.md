@@ -14,6 +14,7 @@ Alte frau, Weiße Haare, drahtig, in Lederrüstung
 Oberhaupt der Familie, hat [[Hvraka (Jule)]] [[Samson (Magnus)]] zugeteilt
 Hart aber fair
 [[Hvraka (Jule)]] Oma
+ Spymaster im Rat
 ### Standort
 [[Osigoa/Lore/Orte/Ignage|Ignage]]
 ### Ziele

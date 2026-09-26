@@ -38,8 +38,8 @@ Aber wenn man kein Fußsoldat sein möchte, muss man am Ende der Grundausbildung
 Baron und seine Familie
 Adlige mit Hofdamen (kontrollieren am meisten die [[Tethosburg]] und [[Ignage]], aber entsenden auch in alle anderen Siedlungen Statthalter, ausgenommen [[Schrein des ersten Magisters]]) [[Haus Ehrenschmied]] [[Haus Krähenfluch]]
 [[Azuth]]s Anhänger sind Magier (kontrollieren die Zähmung der [[Osigoa/Lore/Lore Snippets/Ankylosaurus|Ankylosaurus]]e und die [[Schrein des ersten Magisters]])
-Gilde der Reitierführer (wichtig für Wirtschaft, großer Einfluss in [[Holkastuhl]] und [[Bamras]]) [[Stamm Kalthorn]] [[Stamm Morgenstrahl]]
-Gilde der Handwerker (wichtig für Wirtschaft, verarbeiten Ressourcen vor dem Verkauf weiter) [[Goldstein Clan]], [[Bergpfeil Clan]]
+Gilde der Reitierführer/logistik (wichtig für Wirtschaft, großer Einfluss in [[Holkastuhl]] und [[Bamras]]) [[Stamm Kalthorn]] [[Stamm Morgenstrahl]]
+Gilde der Handwerker/Produzierendes Gewerbe (wichtig für Wirtschaft, verarbeiten Ressourcen vor dem Verkauf weiter) [[Goldstein Clan]], [[Bergpfeil Clan]]
 Bauern, Fischer, Jäger (wichtig für minimale Essensproduktion)
 Militär (eher klein) [[General Jaspar der Titan]]
 Zhentarim im Wald
