@@ -5,4 +5,4 @@ tags: MOCs
 ```
 ![[Osigoa/Sessions/Auserwählte der Elemente/Auserwählte der Elemente]]
 
-![[Osigoa/Sessions/Neue Kampagne/Neue Kampagne]]
+![[Osigoa/Sessions/Spielerei mit Zeit/Neue Kampagne]]

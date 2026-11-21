@@ -1,0 +1,39 @@
+### Struktur
+- [ ]  Recap
+	- [ ] [[Osigoa/Sessions/Spielerei mit Zeit/Neue Kampagne|Neue Kampagne]]
+	- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Hinweise|Hinweise]]
+	- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Gerüchte|Gerüchte]]
+	- [ ] [[Map Glaucia]]
+	- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Plot Hooks|Plot Hooks]]
+- [ ] Hinweise: Kollaboratives Storytelling, ihr könnt immer gerne Sachen dazuerfinden und eure Backstory ausbauen
+- [ ] Level Up?
+
+- [ ] "Schön dass ihr mit mir spielt. Habt ihr Lust ins Abenteuer reinzustarten?"
+
+- [ ] [[Downtime]]
+	- [x] [[Osigoa/Player Information/PCs/Neue Kampagne/Bastion|Bastion]]
+- [ ] Random Wegencounter? [[Encounter Bausteine.canvas|Encounter Bausteine]]
+
+- [x]  Start: [[Hvraka (Jule)]] steht Wache vor seiner Tür, während sie über ein Gespräch mit  [[Zaju Eisenstein]] von heute morgen nachdenkt? **Roleplay** Es geht unter anderem, um den Auftrag die [[Ignatius Familie]] zu beschützen, [[Anke]] und das Verlassen von [[Tethos]], falls [[Samson (Magnus)]] gehen sollte
+- [x] [[Samson (Magnus)]] träumt davon wie er den Pakt geschlossen hat **Roleplay** und wacht schreiend auf, [[Frida Luise Ignatius V]] kommt angerannt, um zu schauen was ist, Gespräch über den Pakt entsteht? **Roleplay** Wie er seine Kräfte einsetzt und wie verschiedene Gruppen dazustehen ([[Tethos#Faktionen]]) Berichtet von Problemen in der Baronie (Steinbruch, Fluss stinkt zwischen durch), Hofdamen und Männer werden immer schöner und aufmüpfiger, Rat von Schwester: Ich weiß du willst es allen beweisen und alles wieder gutmachen aber Lay low, [[Maximilian Theodor Ignatius II]] und [[Gabriel Henri Ignatius II]] sind zurück, du musst nicht mehr die Verantwortung tragen, Vllt auszeit in [[Osigoa/Lore/Orte/Schrein des ersten Magisters|Schrein des ersten Magisters]]?
+- [x] [[Hvraka (Jule)]] wird angesprochen, ob sie nicht die Leibwache von [[Samson (Magnus)]] ist, jemand braucht Hilfe
+
+- [x] Heist: [[Orchid Heist]]? Gerüchte dass Hofdamen und Männer immer schöner werden, Treffen mit Sprites? [[Samson (Magnus)]] hat den Ruf alles zu tun wenn er es für richtig hält und das Standing in Destinys Party reinzukommen?
+
+- [x] [[Destiny]] arbeitet für [[Ignatius Familie]], nur [[Thea Margarete Ignatius I]] und [[Gabriel Henri Ignatius II]] und andere Ratsmitglieder ([[Zaju Eisenstein]], [[Morgan Gnash]] Orkfrau, Magierin Azuth) wissen davon, soll Bürger und Hofstaat gegeneinander ausspielen/mit ihrem Aussehen beschäftigen, um Stand der Familie zu stärken, darf dafür ihr Geschäft betreiben
+- [x] Rat tagt im höchsten Turm ganz oben
+- [ ] Probleme im [[Holkastuhl]] und dem stinkendem [[Silberlauf]] Pilz ist eig. ausgestorben aber Zeitreise Spielereien (in die Vergangenheit reisen nur mit aufwändigem Ritual möglich) (s. DM Guide S. 123)
+- [ ] Im  [[Osigoa/Lore/Orte/Schrein des ersten Magisters|Schrein des ersten Magisters]] (Treffen mit [[Glamora Etheri]], [[Elduin Ulabalar]]) wurde der Magister [[Ivelius Ebone]] getötet und ein wertvolles Artefakt entwendet, [[Malagard]] ist interessiert und beauftragt mehr rauszufinden, welches Artefakt (evtl. ermöglicht das Artefakt 6 Sekunden in die Zukunft zu sehen? 1x per day) das war, momentan überall noch Mönche, vllt später mehr dazurausfinden, wenn weniger Trubel ist?
+- [ ] [[Elduin Ulabalar]] will das Artefakt zurück, eventuell Bodygard Mission nach [[Holkastuhl]] bzw. [[Karat]], um dort mehr zu erfahren?
+- [ ] [[Elduin Ulabalar]] und [[Gabriel Henri Ignatius II]] wollen zusammen ein Turnier (siehe Pointy Hat Video) veranstalten mit 2er Teams (Kämpfer + Magier), um ihre Verbundenheit zu zeigen, alle dürfen teilnehmen, die eine Empfehlung haben, Belohnung: [[Elduin Ulabalar]] bietet einen Gefallen und [[Gabriel Henri Ignatius II]] bietet 250 Goldstücke (16 Teams?)
+
+- [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]]
+- [ ] Loot ([[Item Sammlung]])
+
+### Big Picture
+
+3 Konflikte (ersetzen wenn einer aufgelöst, uninteressant oder schwierig Abenteuer dazu zu finden)
+
+- Während dem Krieg hat die Baronie [[Tethos]] gelitten, es gibt Probleme im [[Holkastuhl]] und mit dem [[Silberlauf]], verschiedene Faktionen sind unzufrieden
+- [[Malagard]] verfolgt eigene Ziele, will einen magischen Gegenstand von [[Azuth]]s Tempel in [[Schrein des ersten Magisters]], Mystery designen?
+- [[Hvraka (Jule)]] muss [[Anke]] fertig zähmen, später will jemand [[Anke]] entführen bzw. das verhindern?

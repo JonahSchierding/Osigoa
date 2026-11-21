@@ -23,10 +23,10 @@ Neue Kampagne
 			- [ ] [[Battlemaps]]
 	- [ ] Struktur zusammenfassen 
 		- [ ] [[Aktuelle Session - Auserwählte der Elemente]]
-		- [ ] [[Aktuelle Session - Neue Kampagne]]
+		- [ ] [[Aktuelle Session - Spielerei mit Zeit]]
 	- [ ] DM Screen aktualisieren
 		- [ ] [[DM Screen - AdE.canvas]]
-		- [ ] [[DM Screen - NK.canvas]]
+		- [ ] [[DM Screen - SmZ.canvas]]
 	- [ ] Assets zippen und auf Laptop schieben, git pull auf laptop
 	- [x] Kommunikation an Spieler per Whatsapp
 		- [x] Level Up  
@@ -38,7 +38,7 @@ Neue Kampagne
 	- [x] Level Up  
 	- [ ] Abenteuern  
 		- [ ] [[DM Screen - AdE.canvas||AdE]]
-		- [ ] [[DM Screen - NK.canvas|NK]]
+		- [ ] [[DM Screen - SmZ.canvas|NK]]
 	- [ ] Feedback
 
 

@@ -18,7 +18,8 @@ Kann gut mit Menschen
 
 Kann gut mit Menschen
 Hübsch
-Mag Poesie/schreibt auch selbst
+
+[[Frida Luise Ignatius V]] schreibt und mag Poesie und verschickt sie per Post
 ### Titel
 Frida Luise Ignatius, die fünfte ihres Namens, Tochter von [[Maximilian Theodor Ignatius II]] und [[Thea Margarete Ignatius I]], 3. Infantin von [[Tethos]], Wächterin des Waldes, Beschützerin des Handels und das Herz der [[Ignatius Familie]]
 ### Standort

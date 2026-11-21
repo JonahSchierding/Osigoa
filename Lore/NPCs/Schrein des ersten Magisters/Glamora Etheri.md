@@ -23,4 +23,4 @@ Freundin von [[Samson (Magnus)]], haben öfter zusammen in der Bibliothek Zeit v
 Will im Orden [[Azuth]]s aufsteigen, Zaubern lernen
 
 ### Geheimnisse
-Denkt sie ist für den Tod des Magisters [[Ivelius Ehone]] verantwortlich weil er ihr Lehrer war und sie denkt sie hätte besser aufpassen müssen
+Denkt sie ist für den Tod des Magisters [[Ivelius Ebone]] verantwortlich weil er ihr Lehrer war und sie denkt sie hätte besser aufpassen müssen

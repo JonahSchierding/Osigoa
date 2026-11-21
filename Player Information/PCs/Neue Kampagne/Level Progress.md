@@ -1,7 +1,7 @@
-Aktuelles Level: 3
+Aktuelles Level: 4
 
-Party XP: 1800 XP -> Level 3
-Bereinigte Fight XP pro Kopf: XP -> 900 XP Level 3
+Party XP: 3800 XP -> Level 4
+Bereinigte Fight XP pro Kopf: XP -> 1900 XP Level 3
 
 | **Experience Points** | **Level** | **Proficiency Bonus** |
 | --------------------- | --------- | --------------------- |
