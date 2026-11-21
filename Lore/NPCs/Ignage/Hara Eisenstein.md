@@ -5,10 +5,12 @@ tags:
   - NPC
   - Ugly
 ---
-### Statblock 
+### Statblock
+Knight
 ### Aussehen
 ### Persönlichkeit
-[[Hvraka (Jule)]]s Schwester, beschützt [[Frida Luise Ignatius V]]
+[[Hvraka (Jule)]]s ältere Schwester, beschützt [[Frida Luise Ignatius V]]
+Hat keinen Ankylosaurus
 ### Standort
 [[Osigoa/Lore/Orte/Ignage|Ignage]]
 ### Ziele

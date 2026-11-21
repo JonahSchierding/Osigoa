@@ -10,7 +10,7 @@ tags:
 ### Aussehen
 Halbelf
 ### Persönlichkeit
-Magister von [[Azuth]]
+Magister von [[Azuth]] (Divination)
 Tot
 ### Standort
 [[Osigoa/Lore/Orte/Schrein des ersten Magisters|Schrein des ersten Magisters]]

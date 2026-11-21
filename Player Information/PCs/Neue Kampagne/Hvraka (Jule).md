@@ -29,8 +29,9 @@ Sie träumt eines Tages Seite an Seite mit der Baronin zu kämpfen.
 ##### In Combat
 Level 1: https://www.dndbeyond.com/monsters/16819-camel
 Level 4: https://www.dndbeyond.com/monsters/17049-warhorse
-Level 10: https://www.dndbeyond.com/monsters/16855-elephant
-Level 16: 
+Level 10: Ankyolsaurus
+Level 16: https://www.dndbeyond.com/monsters/16855-elephant
+
 
 Armor möglich
 ##### Out Of Combat 

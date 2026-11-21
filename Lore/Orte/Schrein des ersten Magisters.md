@@ -12,7 +12,7 @@ Hat einen Pyramidenförmigen Tempel, Bewohnt von Anhängern von [[Azuth]](siehe 
 
 Große Bibliothek im Tempel, Außerdem Räume für Unterricht, Ausüben von Magie und Aufbewahrung von magischen Gegenständen
 
-Kleines Dorf rund um den Tempel, vor dem Tempel ist ein perfekt rundes Becken angelegt, in dem Mystra manchmal gesichtet wird (großer Segen für den der sie sieht, DC 17?), ist eigentlich eine Wassernymphe, [[Azuth#Tethos Orden]] weiß bescheid
+Kleines Dorf vor dem Tempel, große Treppe, vor dem Tempel ist ein perfekt rundes Becken angelegt, in dem Mystra manchmal gesichtet wird (großer Segen für den der sie sieht, DC 17?), ist eigentlich eine Wassernymphe, [[Azuth#Tethos Orden]] weiß bescheid
 
 Keine Geschäfte
 
@@ -24,6 +24,6 @@ Unterliegt der Gerichtbarkeit von [[Tethos]] nur für Mord und andere schlimme V
 ### NPCs
 [[Elduin Ulabalar]]: Fördert [[Samson (Magnus)]], eventuell nicht uneigennützig
 [[Mönch]]: Befreundet mit [[Samson (Magnus)]]
-[[Acolyte 1]]: Befreundet mit [[Samson (Magnus)]]
+[[Glamora Etheri]]: Befreundet mit [[Samson (Magnus)]]
 
 ![[Osigoa/Lore/NPCs/Schrein des ersten Magisters/Schrein des ersten Magisters|Schrein des ersten Magisters]]

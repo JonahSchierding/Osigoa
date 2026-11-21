@@ -26,6 +26,11 @@ Seine Macht war so groß, dass er den Gott [Savras](https://forgotten-realms.fan
 Dunkle, lange, fließende Seidengewänder mit abstrusen Accessoires wie Hüten, Schals und Kragen mit magischen Symbolen
 Die Farbe des Symbols von Azuth gibt den Rang an, Gelb sind Akolyten und Mönche, Orange nicht anerkannte Kleriker, Rot anerkannte Kleriker, Lila die Magister bzw. die Oberen und Weiß der Erzmagier
 
+Gelb -> Orange: Eigenen Zauber oder Gegenstand entwickeln
+Orange -> Rot: Jährliche Zeremonie des Aufstiegs mitmachen
+Rot -> Lila: Bester Zauberer einer Schule (z.B. : Invocation)
+Lila -> Weiß: Unter den Lila-Leute als Anführer gewählt werden
+
 ##### Alltag
 Graue Kleidung mit Symbol von Azuth (Rang siehe oben)
 

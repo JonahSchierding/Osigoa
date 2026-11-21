@@ -14,7 +14,8 @@
 		{"id":"2e4966a96466843f","type":"file","file":"Assets/Sonstiges/ASSASSIN - booklet (1).pdf","x":-1640,"y":-1350,"width":400,"height":400},
 		{"id":"ce8d33d9eee8be0d","type":"text","text":"### INSPIRATION!","x":-1150,"y":-1080,"width":330,"height":100},
 		{"id":"db53eaaf830711eb","type":"file","file":"Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Hinweise.md","x":-640,"y":-1690,"width":520,"height":660},
-		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n- Fluss stinkt, Banditen wollen Essen klauen\n- Sprites Kennen gelernt und geundschaftet, Destiny in die Flucht geschlagen, [[Nathaniel]] einen Laden organisiert, den er abbezahlen kann, dem Vater Tschüss gesagt, [[Frida Luise Ignatius V]] eingepackt und ab gehts\n- [[Session 2]]","x":390,"y":-1350,"width":290,"height":330}
+		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n- Fluss stinkt, Banditen wollen Essen klauen\n- Sprites Kennen gelernt und geundschaftet, Destiny in die Flucht geschlagen, [[Nathaniel]] einen Laden organisiert, den er abbezahlen kann, dem Vater Tschüss gesagt, [[Frida Luise Ignatius V]] eingepackt und ab gehts\n- [[Session 2]]","x":390,"y":-1350,"width":290,"height":330},
+		{"id":"fb578bfb390442a8","x":-60,"y":-920,"width":740,"height":480,"type":"file","file":"Osigoa/Sessions/Spielerei mit Zeit/Session 3.md"}
 	],
 	"edges":[]
 }

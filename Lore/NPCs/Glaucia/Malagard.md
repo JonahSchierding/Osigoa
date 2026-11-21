@@ -7,7 +7,7 @@ tags:
 ### Statblock 
 [[WildHearth-Hag_Coven_Spells v1.00.pdf]] Coven of the Night
 ### Standort
-In den Lower Planes, in den 6. Ebende der Neun Höllen, [Malbolge](https://forgottenrealms.fandom.com/wiki/Malbolge)
+In den Lower Planes, in den 6. Ebene der Neun Höllen, [Malbolge](https://forgottenrealms.fandom.com/wiki/Malbolge)
 ### Ziele
 - Einen [Herzstein](https://forgottenrealms.fandom.com/wiki/Heartstone)
 - Ihren wahren Namen rausfinden -> Ritual?
