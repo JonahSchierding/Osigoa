@@ -13,7 +13,7 @@ fc-end:
 [[Fanny (Jule)]]
 [[Gongolak (Chris)]]
 ### Datum
-{{date}}
+28.11.2026
 ### Oneshot
 ### Notizen
 ### Orte

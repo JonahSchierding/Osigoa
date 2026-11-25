@@ -1,17 +1,17 @@
 ### Struktur
 - [ ]  Recap
 	- [ ] [[Osigoa/Sessions/Spielerei mit Zeit/Neue Kampagne|Neue Kampagne]]
-	- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Hinweise|Hinweise]]
-	- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Gerüchte|Gerüchte]]
+	- [ ] [[Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Hinweise|Hinweise]]
+	- [ ] [[Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Gerüchte|Gerüchte]]
 	- [ ] [[Map Glaucia]]
-	- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Plot Hooks|Plot Hooks]]
+	- [ ] [[Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Plot Hooks|Plot Hooks]]
 - [ ] Hinweise: Kollaboratives Storytelling, ihr könnt immer gerne Sachen dazuerfinden und eure Backstory ausbauen
 - [ ] Level Up?
 
 - [ ] "Schön dass ihr mit mir spielt. Habt ihr Lust ins Abenteuer reinzustarten?"
 
 - [ ] [[Downtime]]
-	- [x] [[Osigoa/Player Information/PCs/Neue Kampagne/Bastion|Bastion]]
+	- [x] [[Osigoa/Player Information/PCs/Spielereien mit Zeit/Bastion|Bastion]]
 - [ ] Random Wegencounter? [[Encounter Bausteine.canvas|Encounter Bausteine]]
 
 - [x]  Start: [[Hvraka (Jule)]] steht Wache vor seiner Tür, während sie über ein Gespräch mit  [[Zaju Eisenstein]] von heute morgen nachdenkt? **Roleplay** Es geht unter anderem, um den Auftrag die [[Ignatius Familie]] zu beschützen, [[Anke]] und das Verlassen von [[Tethos]], falls [[Samson (Magnus)]] gehen sollte

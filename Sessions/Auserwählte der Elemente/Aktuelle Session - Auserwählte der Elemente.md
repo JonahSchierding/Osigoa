@@ -15,8 +15,8 @@
 - [ ] Random Wegencounter? [[Encounter Bausteine.canvas|Encounter Bausteine]]
 - [ ] Weg nach Süden treffen auf [[Azrehneth]]
 - [ ]  Richtung Norden (Drachen, Riesen, Konsequenzen von [[Wulfric]]s Treiben ), siehe auch [[Ritual der Wiederkehr]] ->  [[Berge]]
-- [ ] Richtung Süden (Wild Sheep Chase, Zauberer Turm mit [[Ahmad Noke]])
-- [ ] [[Silbrheml]] Stadtwachen suchen nach [[Barkuldor (Vincent)]] (eventuell Chase nach DM Guide Seite 52) und/oder Tieflingkind, das sie mal mit den Amuletten getestet haben -> Richtung Feywild Abenteuer 
+- [ ] Richtung Süden (Wild Sheep Chase, Zauberer Turm mit [[Ahmad Noke]]) [[the_wild_sheep_chase_v2.pdf]]
+- [ ] [[Silbrheml]] Stadtwachen suchen nach [[Barkuldor (Vincent)]] (eventuell Chase nach DM Guide Seite 52) und/oder Tieflingkind, das sie mal mit den Amuletten getestet haben -> Richtung Feywild Abenteuer  [[Feywild Adventure.pdf]]
 - [ ] Oder Nebel? (Druids Oneshot)
 
 - [ ] [[Oneshot Sammlung.canvas|Oneshot Sammlung]]

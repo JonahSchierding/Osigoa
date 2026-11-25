@@ -1,5 +1,3 @@
-Neue Kampagne
-
 
 - [ ] Vorbereitung  
 	- [ ] https://donjon.bin.sh/
@@ -10,10 +8,10 @@ Neue Kampagne
 				- [ ] [[Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Plot Hooks|Plot Hooks]]
 				- [ ] [[Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Gerüchte|Gerüchte]]
 				- [ ] [[Osigoa/Vorbereitung/Auserwählte der Elemente - Vorbereitung/Hinweise|Hinweise]]
-			- [ ] [[Neue Kampagne - Vorbereitung]]
-				- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Plot Hooks|Plot Hooks]]
-				- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Hinweise|Hinweise]]
-				- [ ] [[Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Gerüchte|Gerüchte]]
+			- [ ] [[Spielereien mit Zeit - Vorbereitung]]
+				- [ ] [[Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Plot Hooks|Plot Hooks]]
+				- [ ] [[Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Hinweise|Hinweise]]
+				- [ ] [[Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Gerüchte|Gerüchte]]
 		- [ ] Encounter prüfen 
 			- [ ] [[Encounter Bausteine.canvas|Encounter Bausteine]]
 			- [ ] Loot einbauen  
@@ -38,7 +36,7 @@ Neue Kampagne
 	- [x] Level Up  
 	- [ ] Abenteuern  
 		- [ ] [[DM Screen - AdE.canvas||AdE]]
-		- [ ] [[DM Screen - SmZ.canvas|NK]]
+		- [ ] [[DM Screen - SmZ.canvas|SmZ]]
 	- [ ] Feedback
 
 
@@ -52,4 +50,5 @@ Neue Kampagne
 	- [ ] [[Osigoa/Lore/Maps||Maps]] updaten
 	- [ ] [[Timeline]] updaten
 	- [ ] [[DM Screen - AdE.canvas]] für Nachbereitung checken
+	- [ ] [[DM Screen - SmZ.canvas]] für Nachbereitung checken
  

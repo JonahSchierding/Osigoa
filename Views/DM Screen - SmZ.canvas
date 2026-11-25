@@ -5,17 +5,17 @@
 		{"id":"d6ab484a63d7d5f9","type":"text","text":"# Platzhalter Session","x":-60,"y":-920,"width":740,"height":480,"color":"3"},
 		{"id":"d7377ae6c46ff0c5","type":"file","file":"Osigoa/Vorbereitung/Encounter/Kämpfe.md","x":-1200,"y":-940,"width":600,"height":500},
 		{"id":"85454d79474e7aed","type":"file","file":"Osigoa/OwnAssets/Maps/Map Glaucia.md","x":-1200,"y":-1700,"width":420,"height":570},
-		{"id":"29bd62344f6a0a3e","type":"file","file":"Osigoa/Sessions/Spielerei mit Zeit/Spielerei mit Zeit.md","x":-660,"y":-380,"width":280,"height":400},
-		{"id":"040f2b673c4805f1","type":"file","file":"Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Gerüchte.md","x":-80,"y":-1680,"width":470,"height":660},
-		{"id":"5a87840d19bfc92a","type":"file","file":"Osigoa/Sessions/Spielerei mit Zeit/Aktuelle Session - Spielerei mit Zeit.md","x":-560,"y":-920,"width":480,"height":458},
+		{"id":"29bd62344f6a0a3e","type":"file","file":"Osigoa/Sessions/Spielereien mit Zeit/Spielereien mit Zeit.md","x":-660,"y":-380,"width":280,"height":400},
+		{"id":"040f2b673c4805f1","type":"file","file":"Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Gerüchte.md","x":-80,"y":-1680,"width":470,"height":660},
+		{"id":"5a87840d19bfc92a","type":"file","file":"Osigoa/Sessions/Spielereien mit Zeit/Aktuelle Session - Spielerei mit Zeit.md","x":-560,"y":-920,"width":480,"height":458},
 		{"id":"a4e2324e501d2e1e","type":"file","file":"Osigoa/Views/NPCs.base","x":280,"y":-380,"width":400,"height":520},
-		{"id":"6701978d8ca96d4d","type":"file","file":"Osigoa/Player Information/PCs/Neue Kampagne/Neue Kampagne.md","x":-340,"y":-380,"width":580,"height":400},
+		{"id":"6701978d8ca96d4d","type":"file","file":"Osigoa/Player Information/PCs/Spielereien mit Zeit/Spielereien mit Zeit.md","x":-340,"y":-380,"width":580,"height":400},
 		{"id":"b19b338a0c4fae75","type":"text","text":"### DMs Todos\n- Für PCs Backstory interessieren\n### Nachbereitung\n-","x":390,"y":-1700,"width":290,"height":340},
 		{"id":"2e4966a96466843f","type":"file","file":"Assets/Sonstiges/ASSASSIN - booklet (1).pdf","x":-1640,"y":-1350,"width":400,"height":400},
 		{"id":"ce8d33d9eee8be0d","type":"text","text":"### INSPIRATION!","x":-1150,"y":-1080,"width":330,"height":100},
-		{"id":"db53eaaf830711eb","type":"file","file":"Osigoa/Vorbereitung/Neue Kampagne - Vorbereitung/Hinweise.md","x":-640,"y":-1690,"width":520,"height":660},
+		{"id":"db53eaaf830711eb","type":"file","file":"Osigoa/Vorbereitung/Spielereien mit Zeit - Vorbereitung/Hinweise.md","x":-640,"y":-1690,"width":520,"height":660},
 		{"id":"2b31727daa59d630","type":"text","text":"# Recap\n- Fluss stinkt, Banditen wollen Essen klauen\n- Sprites Kennen gelernt und geundschaftet, Destiny in die Flucht geschlagen, [[Nathaniel]] einen Laden organisiert, den er abbezahlen kann, dem Vater Tschüss gesagt, [[Frida Luise Ignatius V]] eingepackt und ab gehts\n- [[Session 2]]","x":390,"y":-1350,"width":290,"height":330},
-		{"id":"fb578bfb390442a8","x":-60,"y":-920,"width":740,"height":480,"type":"file","file":"Osigoa/Sessions/Spielerei mit Zeit/Session 3.md"}
+		{"id":"fb578bfb390442a8","x":-60,"y":-920,"width":740,"height":480,"type":"file","file":"Osigoa/Sessions/Spielereien mit Zeit/Session 3.md"}
 	],
 	"edges":[]
 }
