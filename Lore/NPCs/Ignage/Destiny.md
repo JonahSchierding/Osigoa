@@ -12,7 +12,6 @@ Hag, kann Aussehen verändern
 Origignal: Alte Hexe, grün, bisschen efeu im Gesicht
 ### Persönlichkeit
 
-
 ### Standort
 ### Ziele
 ### Geheimnisse

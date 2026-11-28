@@ -1,7 +1,7 @@
 Aktuelles Level: 6
 
-Party XP: 21,325 XP -> Level 6
-Bereinigte Fight XP pro Kopf: XP -> 6,700 XP Level 5
+Party XP: 25,725 XP -> Level 7
+Bereinigte Fight XP pro Kopf: XP -> 8,200 XP Level 5
 
 | **Experience Points** | **Level** | **Proficiency Bonus** |
 | --------------------- | --------- | --------------------- |
